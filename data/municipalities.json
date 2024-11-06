@@ -1,0 +1,9884 @@
+[
+    {
+        "name": "BAUNGON",
+        "id": 17,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "CABANGLASAN",
+        "id": 33,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "CITY OF MALAYBALAY",
+        "id": 80,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "DAMULOG",
+        "id": 98,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "DANGCAGAN",
+        "id": 113,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "DON CARLOS",
+        "id": 143,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "IMPASUG-ONG",
+        "id": 157,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "KADINGILAN",
+        "id": 175,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "KALILANGAN",
+        "id": 190,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "KIBAWE",
+        "id": 214,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "KITAOTAO",
+        "id": 250,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "LANTAPAN",
+        "id": 265,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "LIBONA",
+        "id": 280,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "MALITBOG",
+        "id": 292,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "MANOLO FORTICH",
+        "id": 315,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "MARAMAG",
+        "id": 336,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "PANGANTUCAN",
+        "id": 356,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "QUEZON",
+        "id": 388,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "SAN FERNANDO",
+        "id": 413,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "SUMILAO",
+        "id": 424,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "TALAKAG",
+        "id": 454,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "VALENCIA CITY",
+        "id": 486,
+        "province_id": 1,
+        "region_id": 1
+    },
+    {
+        "name": "CATARMAN",
+        "id": 501,
+        "province_id": 2,
+        "region_id": 1
+    },
+    {
+        "name": "GUINSILIBAN",
+        "id": 509,
+        "province_id": 2,
+        "region_id": 1
+    },
+    {
+        "name": "MAHINOG",
+        "id": 523,
+        "province_id": 2,
+        "region_id": 1
+    },
+    {
+        "name": "MAMBAJAO",
+        "id": 539,
+        "province_id": 2,
+        "region_id": 1
+    },
+    {
+        "name": "SAGAY",
+        "id": 549,
+        "province_id": 2,
+        "region_id": 1
+    },
+    {
+        "name": "BACOLOD",
+        "id": 566,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "BALOI",
+        "id": 588,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "BAROY",
+        "id": 612,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "ILIGAN CITY",
+        "id": 657,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "KAPATAGAN",
+        "id": 691,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "KAUSWAGAN",
+        "id": 705,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "KOLAMBUGAN",
+        "id": 732,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "LALA",
+        "id": 760,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "LINAMON",
+        "id": 769,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "MAGSAYSAY",
+        "id": 794,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "MAIGO",
+        "id": 808,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "MATUNGAO",
+        "id": 821,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "MUNAI",
+        "id": 848,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "NUNUNGAN",
+        "id": 874,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "PANTAO RAGAT",
+        "id": 895,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "PANTAR",
+        "id": 917,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "POONA PIAGAPO",
+        "id": 944,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "SALVADOR",
+        "id": 970,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "SAPAD",
+        "id": 988,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "SULTAN NAGA DIMAPORO (KAROMATAN)",
+        "id": 1026,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "TAGOLOAN",
+        "id": 1034,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "TANGCAL",
+        "id": 1053,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "TUBOD",
+        "id": 1078,
+        "province_id": 3,
+        "region_id": 1
+    },
+    {
+        "name": "ALORAN",
+        "id": 1117,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "BALIANGAO",
+        "id": 1133,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "BONIFACIO",
+        "id": 1162,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "CALAMBA",
+        "id": 1182,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "CLARIN",
+        "id": 1212,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "CONCEPCION",
+        "id": 1231,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "DON VICTORIANO CHIONGBIAN (DON MARIANO MARCOS)",
+        "id": 1243,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "JIMENEZ",
+        "id": 1268,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "LOPEZ JAENA",
+        "id": 1297,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "OROQUIETA CITY",
+        "id": 1345,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "OZAMIS CITY",
+        "id": 1397,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "PANAON",
+        "id": 1414,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "PLARIDEL",
+        "id": 1448,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "SAPANG DALAGA",
+        "id": 1477,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "SINACABAN",
+        "id": 1495,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "TANGUB CITY",
+        "id": 1551,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "TUDELA",
+        "id": 1585,
+        "province_id": 4,
+        "region_id": 1
+    },
+    {
+        "name": "ALUBIJID",
+        "id": 1602,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "BALINGASAG",
+        "id": 1633,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "BALINGOAN",
+        "id": 1643,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "BINUANGAN",
+        "id": 1652,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "CAGAYAN DE ORO CITY",
+        "id": 1733,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "CLAVERIA",
+        "id": 1758,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "EL SALVADOR CITY",
+        "id": 1774,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "GINGOOG CITY",
+        "id": 1854,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "GITAGUM",
+        "id": 1866,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "INITAO",
+        "id": 1883,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "JASAAN",
+        "id": 1899,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "KINOGUITAN",
+        "id": 1915,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "LAGONGLONG",
+        "id": 1926,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "LAGUINDINGAN",
+        "id": 1938,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "LIBERTAD",
+        "id": 1948,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "LUGAIT",
+        "id": 1957,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "MAGSAYSAY (LINUGOS)",
+        "id": 1983,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "MANTICAO",
+        "id": 1997,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "MEDINA",
+        "id": 2017,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "NAAWAN",
+        "id": 2028,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "OPOL",
+        "id": 2043,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "SALAY",
+        "id": 2062,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "SUGBONGCOGON",
+        "id": 2073,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "TAGOLOAN",
+        "id": 2084,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "TALISAYAN",
+        "id": 2103,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "VILLANUEVA",
+        "id": 2115,
+        "province_id": 5,
+        "region_id": 1
+    },
+    {
+        "name": "COMPOSTELA",
+        "id": 2132,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "LAAK (SAN VICENTE)",
+        "id": 2173,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "MABINI (DOÑA ALICIA)",
+        "id": 2185,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "MACO",
+        "id": 2223,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "MARAGUSAN (SAN MARIANO)",
+        "id": 2248,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "MAWAB",
+        "id": 2260,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "MONKAYO",
+        "id": 2282,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "MONTEVISTA",
+        "id": 2303,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "NABUNTURAN",
+        "id": 2332,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "NEW BATAAN",
+        "id": 2349,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "PANTUKAN",
+        "id": 2363,
+        "province_id": 6,
+        "region_id": 2
+    },
+    {
+        "name": "ASUNCION (SAUG)",
+        "id": 2384,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "BRAULIO E. DUJALI",
+        "id": 2390,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "CARMEN",
+        "id": 2411,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "CITY OF TAGUM",
+        "id": 2435,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "ISLAND GARDEN CITY OF SAMAL",
+        "id": 2482,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "KAPALONG",
+        "id": 2497,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "NEW CORELLA",
+        "id": 2518,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "PANABO CITY",
+        "id": 2559,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "SAN ISIDRO",
+        "id": 2573,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "SANTO TOMAS",
+        "id": 2593,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "TALAINGOD",
+        "id": 2597,
+        "province_id": 7,
+        "region_id": 2
+    },
+    {
+        "name": "BANSALAN",
+        "id": 2623,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "DAVAO CITY",
+        "id": 2806,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "DIGOS CITY",
+        "id": 2833,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "HAGONOY",
+        "id": 2855,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "KIBLAWAN",
+        "id": 2886,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "MAGSAYSAY",
+        "id": 2909,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "MALALAG",
+        "id": 2925,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "MATANAO",
+        "id": 2959,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "PADADA",
+        "id": 2977,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "SANTA CRUZ",
+        "id": 2996,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "SULOP",
+        "id": 3022,
+        "province_id": 8,
+        "region_id": 2
+    },
+    {
+        "name": "DON MARCELINO",
+        "id": 3038,
+        "province_id": 9,
+        "region_id": 2
+    },
+    {
+        "name": "JOSE ABAD SANTOS (TRINIDAD)",
+        "id": 3065,
+        "province_id": 9,
+        "region_id": 2
+    },
+    {
+        "name": "MALITA",
+        "id": 3096,
+        "province_id": 9,
+        "region_id": 2
+    },
+    {
+        "name": "SANTA MARIA",
+        "id": 3119,
+        "province_id": 9,
+        "region_id": 2
+    },
+    {
+        "name": "SARANGANI",
+        "id": 3132,
+        "province_id": 9,
+        "region_id": 2
+    },
+    {
+        "name": "BAGANGA",
+        "id": 3151,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "BANAYBANAY",
+        "id": 3166,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "BOSTON",
+        "id": 3175,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "CARAGA",
+        "id": 3193,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "CATEEL",
+        "id": 3210,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "GOVERNOR GENEROSO",
+        "id": 3231,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "LUPON",
+        "id": 3253,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "MANAY",
+        "id": 3271,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "MATI CITY",
+        "id": 3298,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "SAN ISIDRO",
+        "id": 3315,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "TARRAGONA",
+        "id": 3326,
+        "province_id": 10,
+        "region_id": 2
+    },
+    {
+        "name": "ALAMADA",
+        "id": 3344,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "ALEOSAN",
+        "id": 3364,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "ANTIPAS",
+        "id": 3378,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "ARAKAN",
+        "id": 3407,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "BANISILAN",
+        "id": 3428,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "CARMEN",
+        "id": 3457,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "CITY OF KIDAPAWAN",
+        "id": 3498,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "KABACAN",
+        "id": 3523,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "LIBUNGAN",
+        "id": 3544,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "M'LANG",
+        "id": 3582,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "MAGPET",
+        "id": 3615,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "MAKILALA",
+        "id": 3654,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "MATALAM",
+        "id": 3689,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "MIDSAYAP",
+        "id": 3747,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "PIGKAWAYAN",
+        "id": 3788,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "PIKIT",
+        "id": 3831,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "PRESIDENT ROXAS",
+        "id": 3857,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "TULUNAN",
+        "id": 3887,
+        "province_id": 11,
+        "region_id": 3
+    },
+    {
+        "name": "ALABEL",
+        "id": 3901,
+        "province_id": 12,
+        "region_id": 3
+    },
+    {
+        "name": "GLAN",
+        "id": 3933,
+        "province_id": 12,
+        "region_id": 3
+    },
+    {
+        "name": "KIAMBA",
+        "id": 3953,
+        "province_id": 12,
+        "region_id": 3
+    },
+    {
+        "name": "MAASIM",
+        "id": 3970,
+        "province_id": 12,
+        "region_id": 3
+    },
+    {
+        "name": "MAITUM",
+        "id": 3990,
+        "province_id": 12,
+        "region_id": 3
+    },
+    {
+        "name": "MALAPATAN",
+        "id": 4003,
+        "province_id": 12,
+        "region_id": 3
+    },
+    {
+        "name": "MALUNGON",
+        "id": 4035,
+        "province_id": 12,
+        "region_id": 3
+    },
+    {
+        "name": "BANGA",
+        "id": 4058,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "GENERAL SANTOS CITY (DADIANGAS)",
+        "id": 4085,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "KORONADAL CITY",
+        "id": 4113,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "LAKE SEBU",
+        "id": 4133,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "NORALA",
+        "id": 4148,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "POLOMOLOK",
+        "id": 4172,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "SANTO NIÑO",
+        "id": 4183,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "SURALLAH",
+        "id": 4201,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "T`BOLI",
+        "id": 4227,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "TAMPAKAN",
+        "id": 4242,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "TANTANGAN",
+        "id": 4256,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "TUPI",
+        "id": 4272,
+        "province_id": 13,
+        "region_id": 3
+    },
+    {
+        "name": "BAGUMBAYAN",
+        "id": 4292,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "COLUMBIO",
+        "id": 4309,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "ESPERANZA",
+        "id": 4329,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "ISULAN",
+        "id": 4347,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "KALAMANSIG",
+        "id": 4363,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "LAMBAYONG (MARIANO MARCOS)",
+        "id": 4390,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "LEBAK",
+        "id": 4418,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "LUTAYAN",
+        "id": 4430,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "PALIMBANG",
+        "id": 4471,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "PRESIDENT QUIRINO",
+        "id": 4491,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "SEN. NINOY AQUINO",
+        "id": 4512,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "TACURONG CITY",
+        "id": 4533,
+        "province_id": 14,
+        "region_id": 3
+    },
+    {
+        "name": "BUENAVISTA",
+        "id": 4559,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "BUTUAN CITY",
+        "id": 4646,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "CABADBARAN CITY",
+        "id": 4678,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "CARMEN",
+        "id": 4687,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "JABONGA",
+        "id": 4703,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "KITCHARAO",
+        "id": 4715,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "LAS NIEVES",
+        "id": 4736,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "MAGALLANES",
+        "id": 4745,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "NASIPIT",
+        "id": 4765,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "REMEDIOS T. ROMUALDEZ",
+        "id": 4774,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "SANTIAGO",
+        "id": 4784,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "TUBAY",
+        "id": 4798,
+        "province_id": 15,
+        "region_id": 4
+    },
+    {
+        "name": "BAYUGAN CITY",
+        "id": 4842,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "BUNAWAN",
+        "id": 4853,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "ESPERANZA",
+        "id": 4901,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "LA PAZ",
+        "id": 4917,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "LORETO",
+        "id": 4935,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "PROSPERIDAD",
+        "id": 4968,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "ROSARIO",
+        "id": 4980,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "SAN FRANCISCO",
+        "id": 5008,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "SAN LUIS",
+        "id": 5034,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "SANTA JOSEFA",
+        "id": 5046,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "SIBAGAT",
+        "id": 5071,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "TALACOGON",
+        "id": 5088,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "TRENTO",
+        "id": 5105,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "VERUELA",
+        "id": 5126,
+        "province_id": 16,
+        "region_id": 4
+    },
+    {
+        "name": "BASILISA (RIZAL)",
+        "id": 5154,
+        "province_id": 17,
+        "region_id": 4
+    },
+    {
+        "name": "CAGDIANAO",
+        "id": 5169,
+        "province_id": 17,
+        "region_id": 4
+    },
+    {
+        "name": "DINAGAT",
+        "id": 5182,
+        "province_id": 17,
+        "region_id": 4
+    },
+    {
+        "name": "LIBJO (ALBOR)",
+        "id": 5199,
+        "province_id": 17,
+        "region_id": 4
+    },
+    {
+        "name": "LORETO",
+        "id": 5210,
+        "province_id": 17,
+        "region_id": 4
+    },
+    {
+        "name": "SAN JOSE",
+        "id": 5223,
+        "province_id": 17,
+        "region_id": 4
+    },
+    {
+        "name": "TUBAJON",
+        "id": 5233,
+        "province_id": 17,
+        "region_id": 4
+    },
+    {
+        "name": "ALEGRIA",
+        "id": 5246,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "BACUAG",
+        "id": 5256,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "BURGOS",
+        "id": 5263,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "CLAVER",
+        "id": 5278,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "DAPA",
+        "id": 5308,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "DEL CARMEN",
+        "id": 5329,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "GENERAL LUNA",
+        "id": 5349,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "GIGAQUIT",
+        "id": 5363,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "MAINIT",
+        "id": 5385,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "MALIMONO",
+        "id": 5400,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "PILAR",
+        "id": 5416,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "PLACER",
+        "id": 5437,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "SAN BENITO",
+        "id": 5444,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "SAN FRANCISCO (ANAO-AON)",
+        "id": 5456,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "SAN ISIDRO",
+        "id": 5469,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "SANTA MONICA (SAPAO)",
+        "id": 5481,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "SISON",
+        "id": 5494,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "SOCORRO",
+        "id": 5509,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "SURIGAO CITY",
+        "id": 5564,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "TAGANA-AN",
+        "id": 5579,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "TUBOD",
+        "id": 5589,
+        "province_id": 18,
+        "region_id": 4
+    },
+    {
+        "name": "BAROBO",
+        "id": 5611,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "BAYABAS",
+        "id": 5619,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "BISLIG CITY",
+        "id": 5644,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "CAGWAIT",
+        "id": 5656,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "CANTILAN",
+        "id": 5674,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "CARMEN",
+        "id": 5683,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "CARRASCAL",
+        "id": 5698,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "CORTES",
+        "id": 5711,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "HINATUAN",
+        "id": 5736,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "LANUZA",
+        "id": 5750,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "LIANGA",
+        "id": 5764,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "LINGIG",
+        "id": 5783,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "MADRID",
+        "id": 5798,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "MARIHATAG",
+        "id": 5811,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "SAN AGUSTIN",
+        "id": 5825,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "SAN MIGUEL",
+        "id": 5844,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "TAGBINA",
+        "id": 5870,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "TAGO",
+        "id": 5895,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "TANDAG CITY",
+        "id": 5917,
+        "province_id": 19,
+        "region_id": 4
+    },
+    {
+        "name": "ADAMS",
+        "id": 5919,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "BACARRA",
+        "id": 5963,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "BADOC",
+        "id": 5995,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "BANGUI",
+        "id": 6010,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "BANNA (ESPIRITU)",
+        "id": 6031,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "BATAC CITY",
+        "id": 6075,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "BURGOS",
+        "id": 6087,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "CARASI",
+        "id": 6091,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "CURRIMAO",
+        "id": 6115,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "DINGRAS",
+        "id": 6147,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "DUMALNEG",
+        "id": 6152,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "LAOAG CITY",
+        "id": 6233,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "MARCOS",
+        "id": 6247,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "NUEVA ERA",
+        "id": 6259,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "PAGUDPUD",
+        "id": 6276,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "PAOAY",
+        "id": 6308,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "PASUQUIN",
+        "id": 6342,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "PIDDIG",
+        "id": 6366,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "PINILI",
+        "id": 6392,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "SAN NICOLAS",
+        "id": 6417,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "SARRAT",
+        "id": 6442,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "SOLSONA",
+        "id": 6465,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "VINTAR",
+        "id": 6499,
+        "province_id": 20,
+        "region_id": 5
+    },
+    {
+        "name": "ALILEM",
+        "id": 6509,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "BANAYOYO",
+        "id": 6524,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "BANTAY",
+        "id": 6559,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "BURGOS",
+        "id": 6586,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "CABUGAO",
+        "id": 6620,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "CANDON CITY",
+        "id": 6663,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "CAOAYAN",
+        "id": 6681,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "CERVANTES",
+        "id": 6695,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "GALIMUYOD",
+        "id": 6720,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "GREGORIO DEL PILAR (CONCEPCION)",
+        "id": 6728,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "LIDLIDDA",
+        "id": 6740,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "MAGSINGAL",
+        "id": 6771,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "NAGBUKEL",
+        "id": 6784,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "NARVACAN",
+        "id": 6819,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "QUIRINO (ANGKAKI)",
+        "id": 6829,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SALCEDO (BAUGEN)",
+        "id": 6851,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SAN EMILIO",
+        "id": 6860,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SAN ESTEBAN",
+        "id": 6871,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SAN ILDEFONSO",
+        "id": 6887,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SAN JUAN (LAPOG)",
+        "id": 6920,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SAN VICENTE",
+        "id": 6928,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SANTA",
+        "id": 6955,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SANTA CATALINA",
+        "id": 6965,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SANTA CRUZ",
+        "id": 7015,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SANTA LUCIA",
+        "id": 7052,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SANTA MARIA",
+        "id": 7086,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SANTIAGO",
+        "id": 7111,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SANTO DOMINGO",
+        "id": 7148,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SIGAY",
+        "id": 7156,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SINAIT",
+        "id": 7201,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SUGPON",
+        "id": 7208,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "SUYO",
+        "id": 7217,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "TAGUDIN",
+        "id": 7261,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "VIGAN CITY",
+        "id": 7301,
+        "province_id": 21,
+        "region_id": 5
+    },
+    {
+        "name": "AGOO",
+        "id": 7351,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "ARINGAY",
+        "id": 7376,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "BACNOTAN",
+        "id": 7424,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "BAGULIN",
+        "id": 7435,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "BALAOAN",
+        "id": 7472,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "BANGAR",
+        "id": 7506,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "BAUANG",
+        "id": 7546,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "BURGOS",
+        "id": 7559,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "CABA",
+        "id": 7577,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "CITY OF SAN FERNANDO",
+        "id": 7637,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "LUNA",
+        "id": 7678,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "NAGUILIAN",
+        "id": 7716,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "PUGO",
+        "id": 7731,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "ROSARIO",
+        "id": 7765,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "SAN GABRIEL",
+        "id": 7781,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "SAN JUAN",
+        "id": 7823,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "SANTO TOMAS",
+        "id": 7848,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "SANTOL",
+        "id": 7860,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "SUDIPEN",
+        "id": 7878,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "TUBAO",
+        "id": 7897,
+        "province_id": 22,
+        "region_id": 5
+    },
+    {
+        "name": "AGNO",
+        "id": 7915,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "AGUILAR",
+        "id": 7932,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "ALAMINOS CITY",
+        "id": 7972,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "ALCALA",
+        "id": 7994,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "ANDA",
+        "id": 8013,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "ASINGAN",
+        "id": 8035,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BALUNGAO",
+        "id": 8056,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BANI",
+        "id": 8084,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BASISTA",
+        "id": 8098,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BAUTISTA",
+        "id": 8117,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BAYAMBANG",
+        "id": 8195,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BINALONAN",
+        "id": 8220,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BINMALEY",
+        "id": 8254,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BOLINAO",
+        "id": 8285,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BUGALLON",
+        "id": 8310,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BURGOS",
+        "id": 8325,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "CALASIAO",
+        "id": 8350,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "DAGUPAN CITY",
+        "id": 8382,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "DASOL",
+        "id": 8401,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "INFANTA",
+        "id": 8415,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "LABRADOR",
+        "id": 8426,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "LAOAC",
+        "id": 8449,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "LINGAYEN",
+        "id": 8482,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "MABINI",
+        "id": 8499,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "MALASIQUI",
+        "id": 8573,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "MANAOAG",
+        "id": 8600,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "MANGALDAN",
+        "id": 8631,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "MANGATAREM",
+        "id": 8714,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "MAPANDAN",
+        "id": 8730,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "NATIVIDAD",
+        "id": 8749,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "POZORRUBIO",
+        "id": 8784,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "ROSALES",
+        "id": 8822,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SAN CARLOS CITY",
+        "id": 8909,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SAN FABIAN",
+        "id": 8944,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SAN JACINTO",
+        "id": 8964,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SAN MANUEL",
+        "id": 8979,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SAN NICOLAS",
+        "id": 9013,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SAN QUINTIN",
+        "id": 9035,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SANTA BARBARA",
+        "id": 9065,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SANTA MARIA",
+        "id": 9089,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SANTO TOMAS",
+        "id": 9100,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SISON",
+        "id": 9129,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "SUAL",
+        "id": 9149,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "TAYUG",
+        "id": 9171,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "UMINGAN",
+        "id": 9230,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "URBIZTONDO",
+        "id": 9252,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "URDANETA CITY",
+        "id": 9287,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "VILLASIS",
+        "id": 9309,
+        "province_id": 23,
+        "region_id": 5
+    },
+    {
+        "name": "BASCO",
+        "id": 9316,
+        "province_id": 24,
+        "region_id": 6
+    },
+    {
+        "name": "ITBAYAT",
+        "id": 9322,
+        "province_id": 24,
+        "region_id": 6
+    },
+    {
+        "name": "IVANA",
+        "id": 9327,
+        "province_id": 24,
+        "region_id": 6
+    },
+    {
+        "name": "MAHATAO",
+        "id": 9332,
+        "province_id": 24,
+        "region_id": 6
+    },
+    {
+        "name": "SABTANG",
+        "id": 9339,
+        "province_id": 24,
+        "region_id": 6
+    },
+    {
+        "name": "UYUGAN",
+        "id": 9344,
+        "province_id": 24,
+        "region_id": 6
+    },
+    {
+        "name": "ABULUG",
+        "id": 9365,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "ALCALA",
+        "id": 9391,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "ALLACAPAN",
+        "id": 9419,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "AMULUNG",
+        "id": 9467,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "APARRI",
+        "id": 9510,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "BAGGAO",
+        "id": 9559,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "BALLESTEROS",
+        "id": 9579,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "BUGUEY",
+        "id": 9610,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "CALAYAN",
+        "id": 9623,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "CAMALANIUGAN",
+        "id": 9652,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "CLAVERIA",
+        "id": 9694,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "ENRILE",
+        "id": 9717,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "GATTARAN",
+        "id": 9768,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "GONZAGA",
+        "id": 9794,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "IGUIG",
+        "id": 9818,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "LAL-LO",
+        "id": 9854,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "LASAM",
+        "id": 9885,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "PAMPLONA",
+        "id": 9904,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "PEÑABLANCA",
+        "id": 9929,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "PIAT",
+        "id": 9948,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "RIZAL",
+        "id": 9978,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "SANCHEZ-MIRA",
+        "id": 9997,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "SANTA ANA",
+        "id": 10014,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "SANTA PRAXEDES",
+        "id": 10025,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "SANTA TERESITA",
+        "id": 10039,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "SANTO NIÑO (FAIRE)",
+        "id": 10071,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "SOLANA",
+        "id": 10110,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "TUAO",
+        "id": 10143,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "TUGUEGARAO CITY",
+        "id": 10193,
+        "province_id": 25,
+        "region_id": 6
+    },
+    {
+        "name": "ALICIA",
+        "id": 10228,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "ANGADANAN",
+        "id": 10288,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "AURORA",
+        "id": 10322,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "BENITO SOLIVEN",
+        "id": 10352,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "BURGOS",
+        "id": 10367,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "CABAGAN",
+        "id": 10394,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "CABATUAN",
+        "id": 10417,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "CAUAYAN CITY",
+        "id": 10483,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "CITY OF SANTIAGO",
+        "id": 10521,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "CORDON",
+        "id": 10548,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "DELFIN ALBANO (MAGSAYSAY)",
+        "id": 10578,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "DINAPIGUE",
+        "id": 10585,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "DIVILACAN",
+        "id": 10598,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "ECHAGUE",
+        "id": 10663,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "GAMU",
+        "id": 10680,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "ILAGAN CITY",
+        "id": 10772,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "JONES",
+        "id": 10815,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "LUNA",
+        "id": 10835,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "MACONACON",
+        "id": 10846,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "MALLIG",
+        "id": 10865,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "NAGUILIAN",
+        "id": 10891,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "PALANAN",
+        "id": 10909,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "QUEZON",
+        "id": 10925,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "QUIRINO",
+        "id": 10947,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "RAMON",
+        "id": 10967,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "REINA MERCEDES",
+        "id": 10988,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "ROXAS",
+        "id": 11015,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "SAN AGUSTIN",
+        "id": 11039,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "SAN GUILLERMO",
+        "id": 11066,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "SAN ISIDRO",
+        "id": 11080,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "SAN MANUEL",
+        "id": 11100,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "SAN MARIANO",
+        "id": 11137,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "SAN MATEO",
+        "id": 11171,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "SAN PABLO",
+        "id": 11189,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "SANTA MARIA",
+        "id": 11210,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "SANTO TOMAS",
+        "id": 11238,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "TUMAUINI",
+        "id": 11285,
+        "province_id": 26,
+        "region_id": 6
+    },
+    {
+        "name": "ALFONSO CASTANEDA",
+        "id": 11292,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "AMBAGUIO",
+        "id": 11301,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "ARITAO",
+        "id": 11324,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "BAGABAG",
+        "id": 11342,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "BAMBANG",
+        "id": 11368,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "BAYOMBONG",
+        "id": 11394,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "DIADI",
+        "id": 11414,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "DUPAX DEL NORTE",
+        "id": 11430,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "DUPAX DEL SUR",
+        "id": 11450,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "KASIBU",
+        "id": 11481,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "KAYAPA",
+        "id": 11512,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "QUEZON",
+        "id": 11525,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "SANTA FE",
+        "id": 11542,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "SOLANO",
+        "id": 11565,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "VILLAVERDE",
+        "id": 11575,
+        "province_id": 27,
+        "region_id": 6
+    },
+    {
+        "name": "AGLIPAY",
+        "id": 11601,
+        "province_id": 28,
+        "region_id": 6
+    },
+    {
+        "name": "CABARROGUIS",
+        "id": 11619,
+        "province_id": 28,
+        "region_id": 6
+    },
+    {
+        "name": "DIFFUN",
+        "id": 11653,
+        "province_id": 28,
+        "region_id": 6
+    },
+    {
+        "name": "MADDELA",
+        "id": 11686,
+        "province_id": 28,
+        "region_id": 6
+    },
+    {
+        "name": "NAGTIPUNAN",
+        "id": 11703,
+        "province_id": 28,
+        "region_id": 6
+    },
+    {
+        "name": "SAGUDAY",
+        "id": 11713,
+        "province_id": 28,
+        "region_id": 6
+    },
+    {
+        "name": "BALER",
+        "id": 11727,
+        "province_id": 29,
+        "region_id": 7
+    },
+    {
+        "name": "CASIGURAN",
+        "id": 11752,
+        "province_id": 29,
+        "region_id": 7
+    },
+    {
+        "name": "DILASAG",
+        "id": 11764,
+        "province_id": 29,
+        "region_id": 7
+    },
+    {
+        "name": "DINALUNGAN",
+        "id": 11774,
+        "province_id": 29,
+        "region_id": 7
+    },
+    {
+        "name": "DINGALAN",
+        "id": 11786,
+        "province_id": 29,
+        "region_id": 7
+    },
+    {
+        "name": "DIPACULAO",
+        "id": 11812,
+        "province_id": 29,
+        "region_id": 7
+    },
+    {
+        "name": "MARIA AURORA",
+        "id": 11853,
+        "province_id": 29,
+        "region_id": 7
+    },
+    {
+        "name": "SAN LUIS",
+        "id": 11872,
+        "province_id": 29,
+        "region_id": 7
+    },
+    {
+        "name": "ABUCAY",
+        "id": 11882,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "BAGAC",
+        "id": 11897,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "BALANGA CITY",
+        "id": 11923,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "DINALUPIHAN",
+        "id": 11970,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "HERMOSA",
+        "id": 11994,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "LIMAY",
+        "id": 12007,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "MARIVELES",
+        "id": 12026,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "MORONG",
+        "id": 12032,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "ORANI",
+        "id": 12062,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "ORION",
+        "id": 12086,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "PILAR",
+        "id": 12106,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "SAMAL",
+        "id": 12121,
+        "province_id": 30,
+        "region_id": 7
+    },
+    {
+        "name": "ANGAT",
+        "id": 12138,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "BALAGTAS (BIGAA)",
+        "id": 12148,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "BALIUAG",
+        "id": 12176,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "BOCAUE",
+        "id": 12196,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "BULACAN",
+        "id": 12211,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "BUSTOS",
+        "id": 12226,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "CALUMPIT",
+        "id": 12256,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "DOÑA REMEDIOS TRINIDAD",
+        "id": 12265,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "GUIGUINTO",
+        "id": 12280,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "HAGONOY",
+        "id": 12307,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "MALOLOS CITY",
+        "id": 12359,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "MARILAO",
+        "id": 12376,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "MEYCAUAYAN CITY",
+        "id": 12403,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "NORZAGARAY",
+        "id": 12417,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "OBANDO",
+        "id": 12429,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "PANDI",
+        "id": 12452,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "PAOMBONG",
+        "id": 12467,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "PLARIDEL",
+        "id": 12487,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "PULILAN",
+        "id": 12507,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "SAN ILDEFONSO",
+        "id": 12544,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "SAN JOSE DEL MONTE CITY",
+        "id": 12604,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "SAN MIGUEL",
+        "id": 12654,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "SAN RAFAEL",
+        "id": 12689,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "SANTA MARIA",
+        "id": 12714,
+        "province_id": 31,
+        "region_id": 7
+    },
+    {
+        "name": "ALIAGA",
+        "id": 12741,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "BONGABON",
+        "id": 12770,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "CABANATUAN CITY",
+        "id": 12860,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "CABIAO",
+        "id": 12884,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "CARRANGLAN",
+        "id": 12902,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "CUYAPO",
+        "id": 12954,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "GABALDON (BITULOK AND SABANI)",
+        "id": 12971,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "GAPAN CITY",
+        "id": 12995,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "GENERAL MAMERTO NATIVIDAD",
+        "id": 13016,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "GENERAL TINIO (PAPAYA)",
+        "id": 13030,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "GUIMBA",
+        "id": 13095,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "JAEN",
+        "id": 13123,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "LAUR",
+        "id": 13141,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "LICAB",
+        "id": 13153,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "LLANERA",
+        "id": 13176,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "LUPAO",
+        "id": 13201,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "NAMPICUAN",
+        "id": 13223,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "PALAYAN CITY",
+        "id": 13243,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "PANTABANGAN",
+        "id": 13258,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "PEÑARANDA",
+        "id": 13269,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "QUEZON",
+        "id": 13286,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "RIZAL",
+        "id": 13313,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "SAN ANTONIO",
+        "id": 13330,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "SAN ISIDRO",
+        "id": 13340,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "SAN JOSE CITY",
+        "id": 13379,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "SAN LEONARDO",
+        "id": 13395,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "SANTA ROSA",
+        "id": 13429,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "SANTO DOMINGO",
+        "id": 13454,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "SCIENCE CITY OF MUÑOZ",
+        "id": 13492,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "TALAVERA",
+        "id": 13546,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "TALUGTUG",
+        "id": 13575,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "ZARAGOZA",
+        "id": 13595,
+        "province_id": 32,
+        "region_id": 7
+    },
+    {
+        "name": "ANGELES CITY",
+        "id": 13629,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "APALIT",
+        "id": 13642,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "ARAYAT",
+        "id": 13673,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "BACOLOR",
+        "id": 13695,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "CANDABA",
+        "id": 13729,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "FLORIDABLANCA",
+        "id": 13763,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "GUAGUA",
+        "id": 13795,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "LUBAO",
+        "id": 13840,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "MABALACAT CITY",
+        "id": 13868,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "MACABEBE",
+        "id": 13894,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "MAGALANG",
+        "id": 13922,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "MASANTOL",
+        "id": 13949,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "MEXICO",
+        "id": 13993,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "MINALIN",
+        "id": 14009,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "PORAC",
+        "id": 14039,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "SAN FERNANDO CITY",
+        "id": 14075,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "SAN LUIS",
+        "id": 14093,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "SAN SIMON",
+        "id": 14108,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "SANTA ANA",
+        "id": 14123,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "SANTA RITA",
+        "id": 14134,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "SANTO TOMAS",
+        "id": 14142,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "SASMUAN (SEXMOAN)",
+        "id": 14155,
+        "province_id": 33,
+        "region_id": 7
+    },
+    {
+        "name": "ANAO",
+        "id": 14174,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "BAMBAN",
+        "id": 14190,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "CAMILING",
+        "id": 14252,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "CAPAS",
+        "id": 14273,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "CITY OF TARLAC",
+        "id": 14350,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "CONCEPCION",
+        "id": 14396,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "GERONA",
+        "id": 14441,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "LA PAZ",
+        "id": 14463,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "MAYANTOC",
+        "id": 14488,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "MONCADA",
+        "id": 14526,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "PANIQUI",
+        "id": 14562,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "PURA",
+        "id": 14579,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "RAMOS",
+        "id": 14589,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "SAN CLEMENTE",
+        "id": 14602,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "SAN JOSE",
+        "id": 14616,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "SAN MANUEL",
+        "id": 14632,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "SANTA IGNACIA",
+        "id": 14657,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "VICTORIA",
+        "id": 14684,
+        "province_id": 34,
+        "region_id": 7
+    },
+    {
+        "name": "BOTOLAN",
+        "id": 14716,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "CABANGAN",
+        "id": 14739,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "CANDELARIA",
+        "id": 14756,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "CASTILLEJOS",
+        "id": 14771,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "IBA",
+        "id": 14786,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "MASINLOC",
+        "id": 14800,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "OLONGAPO CITY",
+        "id": 14818,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "PALAUIG",
+        "id": 14838,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "SAN ANTONIO",
+        "id": 14853,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "SAN FELIPE",
+        "id": 14865,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "SAN MARCELINO",
+        "id": 14884,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "SAN NARCISO",
+        "id": 14902,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "SANTA CRUZ",
+        "id": 14928,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "SUBIC",
+        "id": 14945,
+        "province_id": 35,
+        "region_id": 7
+    },
+    {
+        "name": "AGONCILLO",
+        "id": 14967,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "ALITAGTAG",
+        "id": 14987,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "BALAYAN",
+        "id": 15036,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "BALETE",
+        "id": 15050,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "BATANGAS CITY",
+        "id": 15156,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "BAUAN",
+        "id": 15197,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "CALACA",
+        "id": 15238,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "CALATAGAN",
+        "id": 15264,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "CUENCA",
+        "id": 15286,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "IBAAN",
+        "id": 15313,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "LAUREL",
+        "id": 15335,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "LEMERY",
+        "id": 15382,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "LIAN",
+        "id": 15402,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "LIPA CITY",
+        "id": 15475,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "LOBO",
+        "id": 15502,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "MABINI",
+        "id": 15537,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "MALVAR",
+        "id": 15553,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "MATAAS NA KAHOY",
+        "id": 15570,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "NASUGBU",
+        "id": 15613,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "PADRE GARCIA",
+        "id": 15632,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "ROSARIO",
+        "id": 15681,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "SAN JOSE",
+        "id": 15715,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "SAN JUAN",
+        "id": 15758,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "SAN LUIS",
+        "id": 15785,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "SAN NICOLAS",
+        "id": 15804,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "SAN PASCUAL",
+        "id": 15834,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "SANTA TERESITA",
+        "id": 15852,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "SANTO TOMAS",
+        "id": 15883,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "TAAL",
+        "id": 15926,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "TALISAY",
+        "id": 15948,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "TANAUAN CITY",
+        "id": 15997,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "TAYSAN",
+        "id": 16018,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "TINGLOY",
+        "id": 16034,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "TUY",
+        "id": 16057,
+        "province_id": 36,
+        "region_id": 8
+    },
+    {
+        "name": "ALFONSO",
+        "id": 16090,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "AMADEO",
+        "id": 16117,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "BACOOR CITY",
+        "id": 16191,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "CARMONA",
+        "id": 16206,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "CAVITE CITY",
+        "id": 16291,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "DASMARIÑAS CITY",
+        "id": 16367,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "GEN. MARIANO ALVAREZ",
+        "id": 16395,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "GENERAL EMILIO AGUINALDO",
+        "id": 16410,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "GENERAL TRIAS CITY",
+        "id": 16444,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "IMUS CITY",
+        "id": 16542,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "INDANG",
+        "id": 16579,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "KAWIT",
+        "id": 16603,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "MAGALLANES",
+        "id": 16620,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "MARAGONDON",
+        "id": 16648,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "MENDEZ (MENDEZ-NUÑEZ)",
+        "id": 16673,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "NAIC",
+        "id": 16704,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "NOVELETA",
+        "id": 16721,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "ROSARIO",
+        "id": 16742,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "SILANG",
+        "id": 16807,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "TAGAYTAY CITY",
+        "id": 16842,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "TANZA",
+        "id": 16884,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "TERNATE",
+        "id": 16895,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "TRECE MARTIRES CITY",
+        "id": 16909,
+        "province_id": 37,
+        "region_id": 8
+    },
+    {
+        "name": "ALAMINOS",
+        "id": 16925,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "BAY",
+        "id": 16941,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "CABUYAO CITY",
+        "id": 16960,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "CALAMBA CITY",
+        "id": 17015,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "CALAUAN",
+        "id": 17033,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "CAVINTI",
+        "id": 17053,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "CITY OF BIÑAN",
+        "id": 17078,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "FAMY",
+        "id": 17099,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "KALAYAAN",
+        "id": 17103,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "LILIW",
+        "id": 17137,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "LOS BAÑOS",
+        "id": 17152,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "LUISIANA",
+        "id": 17176,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "LUMBAN",
+        "id": 17193,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "MABITAC",
+        "id": 17209,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "MAGDALENA",
+        "id": 17234,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "MAJAYJAY",
+        "id": 17275,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "NAGCARLAN",
+        "id": 17328,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "PAETE",
+        "id": 17338,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "PAGSANJAN",
+        "id": 17355,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "PAKIL",
+        "id": 17369,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "PANGIL",
+        "id": 17378,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "PILA",
+        "id": 17396,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "RIZAL",
+        "id": 17408,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "SAN PABLO CITY",
+        "id": 17489,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "SAN PEDRO CITY",
+        "id": 17517,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "SANTA CRUZ",
+        "id": 17544,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "SANTA MARIA",
+        "id": 17570,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "SANTA ROSA CITY",
+        "id": 17589,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "SINILOAN",
+        "id": 17610,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "VICTORIA",
+        "id": 17620,
+        "province_id": 38,
+        "region_id": 8
+    },
+    {
+        "name": "AGDANGAN",
+        "id": 17633,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "ALABAT",
+        "id": 17653,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "ATIMONAN",
+        "id": 17696,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "BUENAVISTA",
+        "id": 17734,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "BURDEOS",
+        "id": 17748,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "CALAUAG",
+        "id": 17830,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "CANDELARIA",
+        "id": 17856,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "CATANAUAN",
+        "id": 17903,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "DOLORES",
+        "id": 17920,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "GENERAL LUNA",
+        "id": 17948,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "GENERAL NAKAR",
+        "id": 17968,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "GUINAYANGAN",
+        "id": 18023,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "GUMACA",
+        "id": 18083,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "INFANTA",
+        "id": 18120,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "JOMALIG",
+        "id": 18126,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "LOPEZ",
+        "id": 18222,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "LUCBAN",
+        "id": 18255,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "LUCENA CITY",
+        "id": 18289,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "MACALELON",
+        "id": 18320,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "MAUBAN",
+        "id": 18361,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "MULANAY",
+        "id": 18390,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "PADRE BURGOS",
+        "id": 18413,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "PAGBILAO",
+        "id": 18441,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "PANUKULAN",
+        "id": 18455,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "PATNANUNGAN",
+        "id": 18462,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "PEREZ",
+        "id": 18477,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "PITOGO",
+        "id": 18517,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "PLARIDEL",
+        "id": 18527,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "POLILLO",
+        "id": 18548,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "QUEZON",
+        "id": 18573,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "REAL",
+        "id": 18591,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "SAMPALOC",
+        "id": 18606,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "SAN ANDRES",
+        "id": 18614,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "SAN ANTONIO",
+        "id": 18635,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "SAN FRANCISCO (AURORA)",
+        "id": 18652,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "SAN NARCISO",
+        "id": 18677,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "SARIAYA",
+        "id": 18721,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "TAGKAWAYAN",
+        "id": 18767,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "TAYABAS CITY",
+        "id": 18834,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "TIAONG",
+        "id": 18866,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "UNISAN",
+        "id": 18903,
+        "province_id": 39,
+        "region_id": 8
+    },
+    {
+        "name": "ANGONO",
+        "id": 18914,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "BARAS",
+        "id": 18925,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "BINANGONAN",
+        "id": 18966,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "CAINTA",
+        "id": 18974,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "CARDONA",
+        "id": 18993,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "CITY OF ANTIPOLO",
+        "id": 19010,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "JALA-JALA",
+        "id": 19022,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "MORONG",
+        "id": 19031,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "PILILLA",
+        "id": 19041,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "RODRIGUEZ (MONTALBAN)",
+        "id": 19053,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "SAN MATEO",
+        "id": 19069,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "TANAY",
+        "id": 19090,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "TAYTAY",
+        "id": 19096,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "TERESA",
+        "id": 19106,
+        "province_id": 40,
+        "region_id": 8
+    },
+    {
+        "name": "BOAC",
+        "id": 19168,
+        "province_id": 41,
+        "region_id": 9
+    },
+    {
+        "name": "BUENAVISTA",
+        "id": 19184,
+        "province_id": 41,
+        "region_id": 9
+    },
+    {
+        "name": "GASAN",
+        "id": 19210,
+        "province_id": 41,
+        "region_id": 9
+    },
+    {
+        "name": "MOGPOG",
+        "id": 19248,
+        "province_id": 41,
+        "region_id": 9
+    },
+    {
+        "name": "SANTA CRUZ",
+        "id": 19304,
+        "province_id": 41,
+        "region_id": 9
+    },
+    {
+        "name": "TORRIJOS",
+        "id": 19330,
+        "province_id": 41,
+        "region_id": 9
+    },
+    {
+        "name": "ABRA DE ILOG",
+        "id": 19341,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "CALINTAAN",
+        "id": 19349,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "LOOC",
+        "id": 19359,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "LUBANG",
+        "id": 19376,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "MAGSAYSAY",
+        "id": 19389,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "MAMBURAO",
+        "id": 19405,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "PALUAN",
+        "id": 19418,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "RIZAL",
+        "id": 19430,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "SABLAYAN",
+        "id": 19453,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "SAN JOSE",
+        "id": 19493,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "SANTA CRUZ",
+        "id": 19505,
+        "province_id": 42,
+        "region_id": 9
+    },
+    {
+        "name": "BACO",
+        "id": 19533,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "BANSUD",
+        "id": 19547,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "BONGABONG",
+        "id": 19584,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "BULALACAO (SAN PEDRO)",
+        "id": 19600,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "CITY OF CALAPAN",
+        "id": 19663,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "GLORIA",
+        "id": 19691,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "MANSALAY",
+        "id": 19709,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "NAUJAN",
+        "id": 19780,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "PINAMALAYAN",
+        "id": 19818,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "POLA",
+        "id": 19842,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "PUERTO GALERA",
+        "id": 19856,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "ROXAS",
+        "id": 19877,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "SAN TEODORO",
+        "id": 19886,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "SOCORRO",
+        "id": 19913,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "VICTORIA",
+        "id": 19946,
+        "province_id": 43,
+        "region_id": 9
+    },
+    {
+        "name": "ABORLAN",
+        "id": 19966,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "AGUTAYA",
+        "id": 19977,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "ARACELI",
+        "id": 19991,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "BALABAC",
+        "id": 20012,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "BATARAZA",
+        "id": 20035,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "BROOKE'S POINT",
+        "id": 20054,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "BUSUANGA",
+        "id": 20069,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "CAGAYANCILLO",
+        "id": 20082,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "CORON",
+        "id": 20106,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "CULION",
+        "id": 20121,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "CUYO",
+        "id": 20139,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "DUMARAN",
+        "id": 20156,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "EL NIDO (BACUIT)",
+        "id": 20175,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "KALAYAAN",
+        "id": 20177,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "LINAPACAN",
+        "id": 20188,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "MAGSAYSAY",
+        "id": 20200,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "NARRA",
+        "id": 20224,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "PUERTO PRINCESA CITY",
+        "id": 20291,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "QUEZON",
+        "id": 20306,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "RIZAL (MARCOS)",
+        "id": 20318,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "ROXAS",
+        "id": 20350,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "SAN VICENTE",
+        "id": 20361,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "SOFRONIO ESPAÑOLA",
+        "id": 20371,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "TAYTAY",
+        "id": 20403,
+        "province_id": 44,
+        "region_id": 9
+    },
+    {
+        "name": "ALCANTARA",
+        "id": 20416,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "BANTON",
+        "id": 20434,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "CAJIDIOCAN",
+        "id": 20449,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "CALATRAVA",
+        "id": 20457,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "CONCEPCION",
+        "id": 20467,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "CORCUERA",
+        "id": 20483,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "FERROL",
+        "id": 20490,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "LOOC",
+        "id": 20503,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "MAGDIWANG",
+        "id": 20513,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "ODIONGAN",
+        "id": 20539,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "ROMBLON",
+        "id": 20571,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "SAN AGUSTIN",
+        "id": 20587,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "SAN ANDRES",
+        "id": 20601,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "SAN FERNANDO",
+        "id": 20614,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "SAN JOSE",
+        "id": 20620,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "SANTA FE",
+        "id": 20632,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "SANTA MARIA (IMELDA)",
+        "id": 20639,
+        "province_id": 45,
+        "region_id": 9
+    },
+    {
+        "name": "BACACAY",
+        "id": 20696,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "CAMALIG",
+        "id": 20747,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "CITY OF LIGAO",
+        "id": 20803,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "DARAGA (LOCSIN)",
+        "id": 20858,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "GUINOBATAN",
+        "id": 20903,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "JOVELLAR",
+        "id": 20927,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "LEGAZPI CITY",
+        "id": 20998,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "LIBON",
+        "id": 21046,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "MALILIPOT",
+        "id": 21065,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "MALINAO",
+        "id": 21095,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "MANITO",
+        "id": 21111,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "OAS",
+        "id": 21165,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "PIO DURAN",
+        "id": 21199,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "POLANGUI",
+        "id": 21244,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "RAPU-RAPU",
+        "id": 21279,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "SANTO DOMINGO (LIBOG)",
+        "id": 21303,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "TABACO CITY",
+        "id": 21351,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "TIWI",
+        "id": 21377,
+        "province_id": 46,
+        "region_id": 10
+    },
+    {
+        "name": "BASUD",
+        "id": 21407,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "CAPALONGA",
+        "id": 21430,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "DAET",
+        "id": 21456,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "JOSE PANGANIBAN",
+        "id": 21484,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "LABO",
+        "id": 21537,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "MERCEDES",
+        "id": 21564,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "PARACALE",
+        "id": 21592,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "SAN LORENZO RUIZ (IMELDA)",
+        "id": 21605,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "SAN VICENTE",
+        "id": 21615,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "SANTA ELENA",
+        "id": 21635,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "TALISAY",
+        "id": 21651,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "VINZONS",
+        "id": 21671,
+        "province_id": 47,
+        "region_id": 10
+    },
+    {
+        "name": "BAAO",
+        "id": 21702,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "BALATAN",
+        "id": 21720,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "BATO",
+        "id": 21754,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "BOMBON",
+        "id": 21763,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "BUHI",
+        "id": 21802,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "BULA",
+        "id": 21836,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "CABUSAO",
+        "id": 21846,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "CALABANGA",
+        "id": 21895,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "CAMALIGAN",
+        "id": 21909,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "CANAMAN",
+        "id": 21934,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "CARAMOAN",
+        "id": 21984,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "DEL GALLEGO",
+        "id": 22017,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "GAINZA",
+        "id": 22026,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "GARCHITORENA",
+        "id": 22050,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "GOA",
+        "id": 22085,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "IRIGA CITY",
+        "id": 22122,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "LAGONOY",
+        "id": 22161,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "LIBMANAN",
+        "id": 22237,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "LUPI",
+        "id": 22276,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "MAGARAO",
+        "id": 22292,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "MILAOR",
+        "id": 22313,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "MINALABAC",
+        "id": 22339,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "NABUA",
+        "id": 22382,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "NAGA CITY",
+        "id": 22410,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "OCAMPO",
+        "id": 22436,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "PAMPLONA",
+        "id": 22454,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "PASACAO",
+        "id": 22474,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "PILI",
+        "id": 22501,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "PRESENTACION (PARUBCAN)",
+        "id": 22520,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "RAGAY",
+        "id": 22559,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "SAGÑAY",
+        "id": 22579,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "SAN FERNANDO",
+        "id": 22602,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "SAN JOSE",
+        "id": 22632,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "SIPOCOT",
+        "id": 22679,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "SIRUMA",
+        "id": 22702,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "TIGAON",
+        "id": 22726,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "TINAMBAC",
+        "id": 22771,
+        "province_id": 48,
+        "region_id": 10
+    },
+    {
+        "name": "BAGAMANOC",
+        "id": 22790,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "BARAS",
+        "id": 22820,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "BATO",
+        "id": 22848,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "CARAMORAN",
+        "id": 22876,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "GIGMOTO",
+        "id": 22886,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "PANDAN",
+        "id": 22913,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "PANGANIBAN (PAYO)",
+        "id": 22937,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "SAN ANDRES (CALOLBON)",
+        "id": 22976,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "SAN MIGUEL",
+        "id": 23001,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "VIGA",
+        "id": 23033,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "VIRAC",
+        "id": 23097,
+        "province_id": 49,
+        "region_id": 10
+    },
+    {
+        "name": "AROROY",
+        "id": 23139,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "BALENO",
+        "id": 23164,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "BALUD",
+        "id": 23197,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "BATUAN",
+        "id": 23212,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "CATAINGAN",
+        "id": 23249,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "CAWAYAN",
+        "id": 23287,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "CLAVERIA",
+        "id": 23310,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "DIMASALANG",
+        "id": 23331,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "ESPERANZA",
+        "id": 23352,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "MANDAON",
+        "id": 23379,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "MASBATE CITY",
+        "id": 23410,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "MILAGROS",
+        "id": 23438,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "MOBO",
+        "id": 23468,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "MONREAL",
+        "id": 23480,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "PALANAS",
+        "id": 23505,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "PIO V. CORPUZ (LIMBUHAN)",
+        "id": 23524,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "PLACER",
+        "id": 23560,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "SAN FERNANDO",
+        "id": 23587,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "SAN JACINTO",
+        "id": 23609,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "SAN PASCUAL",
+        "id": 23632,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "USON",
+        "id": 23668,
+        "province_id": 50,
+        "region_id": 10
+    },
+    {
+        "name": "BARCELONA",
+        "id": 23694,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "BULAN",
+        "id": 23758,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "BULUSAN",
+        "id": 23783,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "CASIGURAN",
+        "id": 23809,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "CASTILLA",
+        "id": 23844,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "DONSOL",
+        "id": 23896,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "GUBAT",
+        "id": 23939,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "IROSIN",
+        "id": 23968,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "JUBAN",
+        "id": 23994,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "MAGALLANES",
+        "id": 24029,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "MATNOG",
+        "id": 24070,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "PILAR",
+        "id": 24120,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "PRIETO DIAZ",
+        "id": 24144,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "SANTA MAGDALENA",
+        "id": 24159,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "SORSOGON CITY",
+        "id": 24224,
+        "province_id": 51,
+        "region_id": 10
+    },
+    {
+        "name": "ALTAVAS",
+        "id": 24239,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "BALETE",
+        "id": 24250,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "BANGA",
+        "id": 24281,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "BATAN",
+        "id": 24302,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "BURUANGA",
+        "id": 24318,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "IBAJAY",
+        "id": 24354,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "KALIBO",
+        "id": 24371,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "LEZO",
+        "id": 24384,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "LIBACAO",
+        "id": 24409,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "MADALAG",
+        "id": 24435,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "MAKATO",
+        "id": 24454,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "MALAY",
+        "id": 24472,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "MALINAO",
+        "id": 24496,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "NABAS",
+        "id": 24517,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "NEW WASHINGTON",
+        "id": 24534,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "NUMANCIA",
+        "id": 24552,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "TANGALAN",
+        "id": 24568,
+        "province_id": 52,
+        "region_id": 11
+    },
+    {
+        "name": "ANINI-Y",
+        "id": 24592,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "BARBAZA",
+        "id": 24632,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "BELISON",
+        "id": 24644,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "BUGASONG",
+        "id": 24672,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "CALUYA",
+        "id": 24691,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "CULASI",
+        "id": 24736,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "HAMTIC",
+        "id": 24784,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "LAUA-AN",
+        "id": 24825,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "LIBERTAD",
+        "id": 24845,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "PANDAN",
+        "id": 24880,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "PATNONGON",
+        "id": 24917,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "SAN JOSE",
+        "id": 24946,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "SAN REMIGIO",
+        "id": 24992,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "SEBASTE",
+        "id": 25003,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "SIBALOM",
+        "id": 25080,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "TIBIAO",
+        "id": 25102,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "TOBIAS FORNIER (DAO)",
+        "id": 25153,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "VALDERRAMA",
+        "id": 25176,
+        "province_id": 53,
+        "region_id": 11
+    },
+    {
+        "name": "CUARTERO",
+        "id": 25199,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "DAO",
+        "id": 25220,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "DUMALAG",
+        "id": 25240,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "DUMARAO",
+        "id": 25274,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "IVISAN",
+        "id": 25290,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "JAMINDAN",
+        "id": 25321,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "MA-AYON",
+        "id": 25354,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "MAMBUSAO",
+        "id": 25381,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "PANAY",
+        "id": 25424,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "PANITAN",
+        "id": 25451,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "PILAR",
+        "id": 25476,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "PONTEVEDRA",
+        "id": 25503,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "PRESIDENT ROXAS",
+        "id": 25526,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "ROXAS CITY",
+        "id": 25574,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "SAPI-AN",
+        "id": 25585,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "SIGMA",
+        "id": 25607,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "TAPAZ",
+        "id": 25666,
+        "province_id": 54,
+        "region_id": 11
+    },
+    {
+        "name": "BUENAVISTA",
+        "id": 25703,
+        "province_id": 55,
+        "region_id": 11
+    },
+    {
+        "name": "JORDAN",
+        "id": 25718,
+        "province_id": 55,
+        "region_id": 11
+    },
+    {
+        "name": "NUEVA VALENCIA",
+        "id": 25741,
+        "province_id": 55,
+        "region_id": 11
+    },
+    {
+        "name": "SAN LORENZO",
+        "id": 25754,
+        "province_id": 55,
+        "region_id": 11
+    },
+    {
+        "name": "SIBUNAG",
+        "id": 25769,
+        "province_id": 55,
+        "region_id": 11
+    },
+    {
+        "name": "AJUY",
+        "id": 25804,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "ALIMODIAN",
+        "id": 25856,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "ANILAO",
+        "id": 25878,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "BADIANGAN",
+        "id": 25910,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "BALASAN",
+        "id": 25934,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "BANATE",
+        "id": 25953,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "BAROTAC NUEVO",
+        "id": 25983,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "BAROTAC VIEJO",
+        "id": 26010,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "BATAD",
+        "id": 26035,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "BINGAWAN",
+        "id": 26050,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "CABATUAN",
+        "id": 26119,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "CALINOG",
+        "id": 26179,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "CARLES",
+        "id": 26213,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "CITY OF PASSI",
+        "id": 26265,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "CONCEPCION",
+        "id": 26291,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "DINGLE",
+        "id": 26325,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "DUEÑAS",
+        "id": 26373,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "DUMANGAS",
+        "id": 26419,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "ESTANCIA",
+        "id": 26445,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "GUIMBAL",
+        "id": 26479,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "IGBARAS",
+        "id": 26526,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "ILOILO CITY",
+        "id": 26707,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "JANIUAY",
+        "id": 26768,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "LAMBUNAO",
+        "id": 26842,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "LEGANES",
+        "id": 26861,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "LEMERY",
+        "id": 26893,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "LEON",
+        "id": 26979,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "MAASIN",
+        "id": 27030,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "MIAGAO",
+        "id": 27150,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "MINA",
+        "id": 27173,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "NEW LUCENA",
+        "id": 27195,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "OTON",
+        "id": 27233,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "PAVIA",
+        "id": 27252,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "POTOTAN",
+        "id": 27303,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "SAN DIONISIO",
+        "id": 27333,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "SAN ENRIQUE",
+        "id": 27362,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "SAN JOAQUIN",
+        "id": 27448,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "SAN MIGUEL",
+        "id": 27473,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "SAN RAFAEL",
+        "id": 27483,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "SANTA BARBARA",
+        "id": 27544,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "SARA",
+        "id": 27587,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "TIGBAUAN",
+        "id": 27640,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "TUBUNGAN",
+        "id": 27689,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "ZARRAGA",
+        "id": 27714,
+        "province_id": 56,
+        "region_id": 11
+    },
+    {
+        "name": "BACOLOD CITY",
+        "id": 27776,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "BAGO CITY",
+        "id": 27801,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "BINALBAGAN",
+        "id": 27818,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "CADIZ CITY",
+        "id": 27841,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "CALATRAVA",
+        "id": 27882,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "CANDONI",
+        "id": 27892,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "CAUAYAN",
+        "id": 27918,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "ENRIQUE B. MAGALONA (SARAVIA)",
+        "id": 27942,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "ESCALANTE CITY",
+        "id": 27964,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "HIMAMAYLAN CITY",
+        "id": 27984,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "HINIGARAN",
+        "id": 28009,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "HINOBA-AN (ASIA)",
+        "id": 28023,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "ILOG",
+        "id": 28039,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "ISABELA",
+        "id": 28070,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "KABANKALAN CITY",
+        "id": 28103,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "LA CARLOTA CITY",
+        "id": 28118,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "LA CASTELLANA",
+        "id": 28132,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "MANAPLA",
+        "id": 28145,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "MOISES PADILLA (MAGALLON)",
+        "id": 28161,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "MURCIA",
+        "id": 28185,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "PONTEVEDRA",
+        "id": 28206,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "PULUPANDAN",
+        "id": 28227,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "SAGAY CITY",
+        "id": 28253,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "SALVADOR BENEDICTO",
+        "id": 28261,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "SAN CARLOS CITY",
+        "id": 28280,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "SAN ENRIQUE",
+        "id": 28291,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "SILAY CITY",
+        "id": 28308,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "SIPALAY CITY",
+        "id": 28326,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "TALISAY CITY",
+        "id": 28354,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "TOBOSO",
+        "id": 28364,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "VALLADOLID",
+        "id": 28381,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "VICTORIAS CITY",
+        "id": 28408,
+        "province_id": 57,
+        "region_id": 11
+    },
+    {
+        "name": "ALBURQUERQUE",
+        "id": 28420,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "ALICIA",
+        "id": 28436,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "ANDA",
+        "id": 28453,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "ANTEQUERA",
+        "id": 28475,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "BACLAYON",
+        "id": 28493,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "BALILIHAN",
+        "id": 28525,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "BATUAN",
+        "id": 28541,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "BIEN UNIDO",
+        "id": 28557,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "BILAR",
+        "id": 28577,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "BUENAVISTA",
+        "id": 28613,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "CALAPE",
+        "id": 28647,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "CANDIJAY",
+        "id": 28669,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "CARMEN",
+        "id": 28699,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "CATIGBIAN",
+        "id": 28722,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "CLARIN",
+        "id": 28747,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "CORELLA",
+        "id": 28756,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "CORTES",
+        "id": 28771,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "DAGOHOY",
+        "id": 28787,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "DANAO",
+        "id": 28805,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "DAUIS",
+        "id": 28818,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "DIMIAO",
+        "id": 28854,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "DUERO",
+        "id": 28876,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "GARCIA HERNANDEZ",
+        "id": 28907,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "GUINDULMAN",
+        "id": 28927,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "INABANGA",
+        "id": 28978,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "JAGNA",
+        "id": 29012,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "JETAFE",
+        "id": 29037,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "LILA",
+        "id": 29056,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "LOAY",
+        "id": 29081,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "LOBOC",
+        "id": 29110,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "LOON",
+        "id": 29178,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "MABINI",
+        "id": 29201,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "MARIBOJOC",
+        "id": 29224,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "PANGLAO",
+        "id": 29235,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "PILAR",
+        "id": 29257,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "PRES. CARLOS P. GARCIA (PITOGO)",
+        "id": 29281,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "SAGBAYAN (BORJA)",
+        "id": 29306,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "SAN ISIDRO",
+        "id": 29319,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "SAN MIGUEL",
+        "id": 29338,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "SEVILLA",
+        "id": 29352,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "SIERRA BULLONES",
+        "id": 29375,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "SIKATUNA",
+        "id": 29386,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "TAGBILARAN CITY",
+        "id": 29402,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "TALIBON",
+        "id": 29428,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "TRINIDAD",
+        "id": 29449,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "TUBIGON",
+        "id": 29484,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "UBAY",
+        "id": 29529,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "VALENCIA",
+        "id": 29565,
+        "province_id": 58,
+        "region_id": 12
+    },
+    {
+        "name": "ALCANTARA",
+        "id": 29575,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "ALCOY",
+        "id": 29584,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "ALEGRIA",
+        "id": 29594,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "ALOGUINSAN",
+        "id": 29610,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "ARGAO",
+        "id": 29656,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "ASTURIAS",
+        "id": 29684,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "BADIAN",
+        "id": 29714,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "BALAMBAN",
+        "id": 29743,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "BANTAYAN",
+        "id": 29769,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "BARILI",
+        "id": 29812,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "BOGO CITY",
+        "id": 29842,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "BOLJOON",
+        "id": 29854,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "BORBON",
+        "id": 29874,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "CARCAR CITY",
+        "id": 29890,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "CARMEN",
+        "id": 29912,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "CATMON",
+        "id": 29933,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "CEBU CITY",
+        "id": 30014,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "COMPOSTELA",
+        "id": 30032,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "CONSOLACION",
+        "id": 30054,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "CORDOBA",
+        "id": 30068,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "DAANBANTAYAN",
+        "id": 30089,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "DALAGUETE",
+        "id": 30123,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "DANAO CITY",
+        "id": 30166,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "DUMANJUG",
+        "id": 30204,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "GINATILAN",
+        "id": 30219,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "LAPU-LAPU CITY (OPON)",
+        "id": 30250,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "LILOAN",
+        "id": 30265,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "MADRIDEJOS",
+        "id": 30280,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "MALABUYOC",
+        "id": 30295,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "MANDAUE CITY",
+        "id": 30323,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "MEDELLIN",
+        "id": 30343,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "MINGLANILLA",
+        "id": 30363,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "MOALBOAL",
+        "id": 30379,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "NAGA CITY",
+        "id": 30408,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "OSLOB",
+        "id": 30430,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "PILAR",
+        "id": 30444,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "PINAMUNGAHAN",
+        "id": 30471,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "PORO",
+        "id": 30489,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "RONDA",
+        "id": 30504,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "SAMBOAN",
+        "id": 30520,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "SAN FERNANDO",
+        "id": 30542,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "SAN FRANCISCO",
+        "id": 30558,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "SAN REMIGIO",
+        "id": 30586,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "SANTA FE",
+        "id": 30597,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "SANTANDER",
+        "id": 30608,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "SIBONGA",
+        "id": 30634,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "SOGOD",
+        "id": 30653,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "TABOGON",
+        "id": 30679,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "TABUELAN",
+        "id": 30692,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "TALISAY CITY",
+        "id": 30715,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "TOLEDO CITY",
+        "id": 30754,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "TUBURAN",
+        "id": 30809,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "TUDELA",
+        "id": 30821,
+        "province_id": 59,
+        "region_id": 12
+    },
+    {
+        "name": "AMLAN (AYUQUITAN)",
+        "id": 30830,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "AYUNGON",
+        "id": 30855,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "BACONG",
+        "id": 30878,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "BAIS CITY",
+        "id": 30914,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "BASAY",
+        "id": 30925,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "BAYAWAN CITY (TULONG)",
+        "id": 30954,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "BINDOY (PAYABON)",
+        "id": 30977,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "CANLAON CITY",
+        "id": 30990,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "DAUIN",
+        "id": 31014,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "DUMAGUETE CITY",
+        "id": 31045,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "GUIHULNGAN CITY",
+        "id": 31079,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "JIMALALUD",
+        "id": 31108,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "LA LIBERTAD",
+        "id": 31138,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "MABINAY",
+        "id": 31171,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "MANJUYOD",
+        "id": 31199,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "PAMPLONA",
+        "id": 31216,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "SAN JOSE",
+        "id": 31231,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "SANTA CATALINA",
+        "id": 31254,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "SIATON",
+        "id": 31281,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "SIBULAN",
+        "id": 31297,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "TANJAY CITY",
+        "id": 31322,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "TAYASAN",
+        "id": 31351,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "VALENCIA (LUZURRIAGA)",
+        "id": 31376,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "VALLEHERMOSO",
+        "id": 31392,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "ZAMBOANGUITA",
+        "id": 31403,
+        "province_id": 60,
+        "region_id": 12
+    },
+    {
+        "name": "ENRIQUE VILLANUEVA",
+        "id": 31418,
+        "province_id": 61,
+        "region_id": 12
+    },
+    {
+        "name": "LARENA",
+        "id": 31442,
+        "province_id": 61,
+        "region_id": 12
+    },
+    {
+        "name": "LAZI",
+        "id": 31461,
+        "province_id": 61,
+        "region_id": 12
+    },
+    {
+        "name": "MARIA",
+        "id": 31484,
+        "province_id": 61,
+        "region_id": 12
+    },
+    {
+        "name": "SAN JUAN",
+        "id": 31500,
+        "province_id": 61,
+        "region_id": 12
+    },
+    {
+        "name": "SIQUIJOR",
+        "id": 31543,
+        "province_id": 61,
+        "region_id": 12
+    },
+    {
+        "name": "ALMERIA",
+        "id": 31557,
+        "province_id": 62,
+        "region_id": 13
+    },
+    {
+        "name": "BILIRAN",
+        "id": 31569,
+        "province_id": 62,
+        "region_id": 13
+    },
+    {
+        "name": "CABUCGAYAN",
+        "id": 31583,
+        "province_id": 62,
+        "region_id": 13
+    },
+    {
+        "name": "CAIBIRAN",
+        "id": 31601,
+        "province_id": 62,
+        "region_id": 13
+    },
+    {
+        "name": "CULABA",
+        "id": 31619,
+        "province_id": 62,
+        "region_id": 13
+    },
+    {
+        "name": "KAWAYAN",
+        "id": 31640,
+        "province_id": 62,
+        "region_id": 13
+    },
+    {
+        "name": "MARIPIPI",
+        "id": 31656,
+        "province_id": 62,
+        "region_id": 13
+    },
+    {
+        "name": "NAVAL",
+        "id": 31683,
+        "province_id": 62,
+        "region_id": 13
+    },
+    {
+        "name": "ARTECHE",
+        "id": 31704,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "BALANGIGA",
+        "id": 31718,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "BALANGKAYAN",
+        "id": 31734,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "BORONGAN CITY",
+        "id": 31796,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "CAN-AVID",
+        "id": 31825,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "DOLORES",
+        "id": 31872,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "GENERAL MACARTHUR",
+        "id": 31903,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "GIPORLOS",
+        "id": 31922,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "GUIUAN",
+        "id": 31983,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "HERNANI",
+        "id": 31997,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "JIPAPAD",
+        "id": 32011,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "LAWAAN",
+        "id": 32028,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "LLORENTE",
+        "id": 32062,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "MASLOG",
+        "id": 32075,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "MAYDOLONG",
+        "id": 32096,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "MERCEDES",
+        "id": 32113,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "ORAS",
+        "id": 32156,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "QUINAPONDAN",
+        "id": 32182,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "SALCEDO",
+        "id": 32224,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "SAN JULIAN",
+        "id": 32241,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "SAN POLICARPO",
+        "id": 32259,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "SULAT",
+        "id": 32278,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "TAFT",
+        "id": 32303,
+        "province_id": 63,
+        "region_id": 13
+    },
+    {
+        "name": "ABUYOG",
+        "id": 32367,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "ALANGALANG",
+        "id": 32422,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "ALBUERA",
+        "id": 32439,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "BABATNGON",
+        "id": 32465,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "BARUGO",
+        "id": 32503,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "BATO",
+        "id": 32536,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "BAYBAY CITY",
+        "id": 32629,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "BURAUEN",
+        "id": 32707,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "CALUBIAN",
+        "id": 32761,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "CAPOOCAN",
+        "id": 32783,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "CARIGARA",
+        "id": 32833,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "DAGAMI",
+        "id": 32899,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "DULAG",
+        "id": 32945,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "HILONGOS",
+        "id": 32997,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "HINDANG",
+        "id": 33018,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "INOPACAN",
+        "id": 33039,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "ISABEL",
+        "id": 33064,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "JARO",
+        "id": 33111,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "JAVIER (BUGHO)",
+        "id": 33140,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "JULITA",
+        "id": 33167,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "KANANGA",
+        "id": 33191,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "LA PAZ",
+        "id": 33227,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "LEYTE",
+        "id": 33258,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "MACARTHUR",
+        "id": 33290,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "MAHAPLAG",
+        "id": 33319,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "MATAG-OB",
+        "id": 33341,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "MATALOM",
+        "id": 33372,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "MAYORGA",
+        "id": 33389,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "MERIDA",
+        "id": 33412,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "ORMOC CITY",
+        "id": 33523,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "PALO",
+        "id": 33557,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "PALOMPON",
+        "id": 33608,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "PASTRANA",
+        "id": 33638,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "SAN ISIDRO",
+        "id": 33658,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "SAN MIGUEL",
+        "id": 33680,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "SANTA FE",
+        "id": 33701,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "TABANGO",
+        "id": 33715,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "TABONTABON",
+        "id": 33732,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "TACLOBAN CITY",
+        "id": 33871,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "TANAUAN",
+        "id": 33926,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "TOLOSA",
+        "id": 33942,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "TUNGA",
+        "id": 33951,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "VILLABA",
+        "id": 33987,
+        "province_id": 64,
+        "region_id": 13
+    },
+    {
+        "name": "ALLEN",
+        "id": 34008,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "BIRI",
+        "id": 34017,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "BOBON",
+        "id": 34036,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "CAPUL",
+        "id": 34049,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "CATARMAN",
+        "id": 34105,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "CATUBIG",
+        "id": 34153,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "GAMAY",
+        "id": 34180,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "LAOANG",
+        "id": 34237,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "LAPINIG",
+        "id": 34253,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "LAS NAVAS",
+        "id": 34307,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "LAVEZARES",
+        "id": 34334,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "LOPE DE VEGA",
+        "id": 34357,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "MAPANAS",
+        "id": 34371,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "MONDRAGON",
+        "id": 34396,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "PALAPAG",
+        "id": 34429,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "PAMBUJAN",
+        "id": 34456,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "ROSARIO",
+        "id": 34468,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "SAN ANTONIO",
+        "id": 34479,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "SAN ISIDRO",
+        "id": 34494,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "SAN JOSE",
+        "id": 34511,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "SAN ROQUE",
+        "id": 34528,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "SAN VICENTE",
+        "id": 34536,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "SILVINO LOBOS",
+        "id": 34563,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "VICTORIA",
+        "id": 34580,
+        "province_id": 65,
+        "region_id": 13
+    },
+    {
+        "name": "ALMAGRO",
+        "id": 34604,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "BASEY",
+        "id": 34656,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "CALBAYOG CITY",
+        "id": 34814,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "CALBIGA",
+        "id": 34856,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "CATBALOGAN CITY",
+        "id": 34914,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "DARAM",
+        "id": 34973,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "GANDARA",
+        "id": 35043,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "HINABANGAN",
+        "id": 35065,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "JIABONG",
+        "id": 35100,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "MARABUT",
+        "id": 35125,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "MATUGUINAO",
+        "id": 35146,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "MOTIONG",
+        "id": 35177,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "PAGSANGHAN",
+        "id": 35191,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "PARANAS (WRIGHT)",
+        "id": 35236,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "PINABACDAO",
+        "id": 35261,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "SAN JORGE",
+        "id": 35303,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "SAN JOSE DE BUAN",
+        "id": 35318,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "SAN SEBASTIAN",
+        "id": 35333,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "SANTA MARGARITA",
+        "id": 35370,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "SANTA RITA",
+        "id": 35409,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "SANTO NIÑO",
+        "id": 35423,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "TAGAPUL-AN",
+        "id": 35438,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "TALALORA",
+        "id": 35450,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "TARANGNAN",
+        "id": 35492,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "VILLAREAL",
+        "id": 35531,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "ZUMARRAGA",
+        "id": 35557,
+        "province_id": 66,
+        "region_id": 13
+    },
+    {
+        "name": "ANAHAWAN",
+        "id": 35572,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "BONTOC",
+        "id": 35613,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "HINUNANGAN",
+        "id": 35654,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "HINUNDAYAN",
+        "id": 35672,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "LIBAGON",
+        "id": 35687,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "LILOAN",
+        "id": 35712,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "LIMASAWA",
+        "id": 35719,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "MAASIN CITY",
+        "id": 35790,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "MACROHON",
+        "id": 35821,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "MALITBOG",
+        "id": 35859,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "PADRE BURGOS",
+        "id": 35871,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "PINTUYAN",
+        "id": 35895,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "SAINT BERNARD",
+        "id": 35926,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "SAN FRANCISCO",
+        "id": 35949,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "SAN JUAN (CABALIAN)",
+        "id": 35968,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "SAN RICARDO",
+        "id": 35984,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "SILAGO",
+        "id": 36000,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "SOGOD",
+        "id": 36046,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "TOMAS OPPUS",
+        "id": 36076,
+        "province_id": 67,
+        "region_id": 13
+    },
+    {
+        "name": "BACUNGAN (LEON T. POSTIGO)",
+        "id": 36095,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "BALIGUIAN",
+        "id": 36113,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "DAPITAN CITY",
+        "id": 36164,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "DIPOLOG CITY",
+        "id": 36186,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "GODOD",
+        "id": 36204,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "GUTALAC",
+        "id": 36238,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "JOSE DALMAN (PONOT)",
+        "id": 36257,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "KALAWIT",
+        "id": 36272,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "KATIPUNAN",
+        "id": 36303,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "LA LIBERTAD",
+        "id": 36317,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "LABASON",
+        "id": 36338,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "LILOY",
+        "id": 36376,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "MANUKAN",
+        "id": 36399,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "MUTIA",
+        "id": 36416,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "PIÑAN (NEW PIÑAN)",
+        "id": 36439,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "POLANCO",
+        "id": 36470,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "PRES. MANUEL A. ROXAS",
+        "id": 36502,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "RIZAL",
+        "id": 36525,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "SALUG",
+        "id": 36549,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "SERGIO OSMEÑA SR.",
+        "id": 36589,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "SIAYAN",
+        "id": 36612,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "SIBUCO",
+        "id": 36641,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "SIBUTAD",
+        "id": 36658,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "SINDANGAN",
+        "id": 36711,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "SIOCON",
+        "id": 36738,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "SIRAWAI",
+        "id": 36773,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "TAMPILISAN",
+        "id": 36794,
+        "province_id": 68,
+        "region_id": 14
+    },
+    {
+        "name": "AURORA",
+        "id": 36839,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "BAYOG",
+        "id": 36868,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "DIMATALING",
+        "id": 36893,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "DINAS",
+        "id": 36924,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "DUMALINAO",
+        "id": 36955,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "DUMINGAG",
+        "id": 37000,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "GUIPOS",
+        "id": 37018,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "JOSEFINA",
+        "id": 37033,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "KUMALARANG",
+        "id": 37052,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "LABANGAN",
+        "id": 37078,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "LAKEWOOD",
+        "id": 37093,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "LAPUYAN",
+        "id": 37120,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "MAHAYAG",
+        "id": 37150,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "MARGOSATUBIG",
+        "id": 37168,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "MIDSALIP",
+        "id": 37202,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "MOLAVE",
+        "id": 37228,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "PAGADIAN CITY",
+        "id": 37283,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "PITOGO",
+        "id": 37299,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "RAMON MAGSAYSAY (LIARGO)",
+        "id": 37327,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "SAN MIGUEL",
+        "id": 37346,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "SAN PABLO",
+        "id": 37375,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "SOMINOT (DON MARIANO MARCOS)",
+        "id": 37394,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "TABINA",
+        "id": 37410,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "TAMBULIG",
+        "id": 37442,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "TIGBAO",
+        "id": 37461,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "TUKURAN",
+        "id": 37487,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "VINCENZO A. SAGUN",
+        "id": 37502,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "ZAMBOANGA CITY",
+        "id": 37601,
+        "province_id": 69,
+        "region_id": 14
+    },
+    {
+        "name": "ALICIA",
+        "id": 37629,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "BUUG",
+        "id": 37657,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "DIPLAHAN",
+        "id": 37680,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "IMELDA",
+        "id": 37699,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "IPIL",
+        "id": 37728,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "KABASALAN",
+        "id": 37758,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "MABUHAY",
+        "id": 37777,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "MALANGAS",
+        "id": 37803,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "NAGA",
+        "id": 37827,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "OLUTANGA",
+        "id": 37847,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "PAYAO",
+        "id": 37877,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "ROSELLER LIM",
+        "id": 37904,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "SIAY",
+        "id": 37934,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "TALUSAN",
+        "id": 37949,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "TITAY",
+        "id": 37980,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "TUNGAWAN",
+        "id": 38006,
+        "province_id": 70,
+        "region_id": 14
+    },
+    {
+        "name": "AKBAR",
+        "id": 38016,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "AL-BARKA",
+        "id": 38033,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "HADJI MOHAMMAD AJUL",
+        "id": 38045,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "HADJI MUHTAMAD",
+        "id": 38056,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "ISABELA CITY",
+        "id": 38102,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "LAMITAN CITY",
+        "id": 38148,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "LANTAWAN",
+        "id": 38174,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "MALUSO",
+        "id": 38195,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "SUMISIP",
+        "id": 38225,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "TABUAN-LASA",
+        "id": 38238,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "TIPO-TIPO",
+        "id": 38250,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "TUBURAN",
+        "id": 38261,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "UNGKAYA PUKAN",
+        "id": 38274,
+        "province_id": 71,
+        "region_id": 15
+    },
+    {
+        "name": "AMAI MANABILANG (BUMBARAN)",
+        "id": 38292,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "BACOLOD-KALAWI (BACOLOD GRANDE)",
+        "id": 38319,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "BALABAGAN",
+        "id": 38347,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "BALINDONG (WATU)",
+        "id": 38386,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "BAYANG",
+        "id": 38436,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "BINIDAYAN",
+        "id": 38463,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "BUADIPOSO-BUNTONG",
+        "id": 38497,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "BUBONG",
+        "id": 38534,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "BUTIG",
+        "id": 38551,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "CALANOGAS",
+        "id": 38569,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "DITSAAN-RAMAIN",
+        "id": 38605,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "GANASSI",
+        "id": 38638,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "KAPAI",
+        "id": 38659,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "KAPATAGAN",
+        "id": 38675,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "LUMBA-BAYABAO (MAGUING)",
+        "id": 38714,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "LUMBACA-UNAYAN",
+        "id": 38724,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "LUMBATAN",
+        "id": 38746,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "LUMBAYANAGUE",
+        "id": 38769,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "MADALUM",
+        "id": 38807,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "MADAMBA",
+        "id": 38832,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "MAGUING",
+        "id": 38867,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "MALABANG",
+        "id": 38905,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "MARANTAO",
+        "id": 38940,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "MARAWI CITY",
+        "id": 39037,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "MAROGONG",
+        "id": 39062,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "MASIU",
+        "id": 39098,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "MULONDO",
+        "id": 39125,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "PAGAYAWAN (TATARIKAN)",
+        "id": 39144,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "PIAGAPO",
+        "id": 39182,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "PICONG (SULTAN GUMANDER)",
+        "id": 39202,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "POONA BAYABAO (GATA)",
+        "id": 39228,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "PUALAS",
+        "id": 39252,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "SAGUIARAN",
+        "id": 39283,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "SULTAN DUMALONDONG",
+        "id": 39291,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "TAGOLOAN",
+        "id": 39311,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "TAMPARAN",
+        "id": 39356,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "TARAKA",
+        "id": 39400,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "TUBARAN",
+        "id": 39422,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "TUGAYA",
+        "id": 39446,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "WAO",
+        "id": 39473,
+        "province_id": 72,
+        "region_id": 15
+    },
+    {
+        "name": "AMPATUAN",
+        "id": 39485,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "BARIRA",
+        "id": 39500,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "BULDON",
+        "id": 39516,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "BULUAN",
+        "id": 39524,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "COTABATO CITY",
+        "id": 39562,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU ABDULLAH SANGKI",
+        "id": 39573,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU ANGGAL MIDTIMBANG",
+        "id": 39581,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU BLAH T. SINSUAT",
+        "id": 39595,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU HOFFER AMPATUAN",
+        "id": 39607,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU ODIN SINSUAT (DINAIG)",
+        "id": 39642,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU PAGLAS",
+        "id": 39666,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU PIANG",
+        "id": 39683,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU SALIBO",
+        "id": 39701,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU SAUDI AMPATUAN",
+        "id": 39710,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "DATU UNSAY",
+        "id": 39719,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "GEN. S. K. PENDATUN",
+        "id": 39739,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "GUINDULUNGAN",
+        "id": 39751,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "KABUNTALAN (TUMBAO)",
+        "id": 39769,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "MAMASAPANO",
+        "id": 39784,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "MANGUDADATU",
+        "id": 39793,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "MATANOG",
+        "id": 39802,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "NORTHERN KABUNTALAN",
+        "id": 39814,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "PAGAGAWAN",
+        "id": 39826,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "PAGALUNGAN",
+        "id": 39839,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "PAGLAT",
+        "id": 39848,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "PANDAG",
+        "id": 39857,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "PARANG",
+        "id": 39883,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "RAJAH BUAYAN",
+        "id": 39895,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "SHARIFF AGUAK (MAGANOY)",
+        "id": 39909,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "SHARIFF SAYDONA MUSTAPHA",
+        "id": 39926,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "SOUTH UPI",
+        "id": 39938,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "SULTAN KUDARAT (NULING)",
+        "id": 39978,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "SULTAN MASTURA",
+        "id": 39992,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "SULTAN SA BARONGIS (LAMBAYONG)",
+        "id": 40005,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "TALAYAN",
+        "id": 40021,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "TALITAY",
+        "id": 40031,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "UPI",
+        "id": 40055,
+        "province_id": 73,
+        "region_id": 15
+    },
+    {
+        "name": "HADJI PANGLIMA TAHIL (MARUNGGAS)",
+        "id": 40061,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "INDANAN",
+        "id": 40096,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "JOLO",
+        "id": 40105,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "KALINGALAN CALUANG",
+        "id": 40115,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "LUGUS",
+        "id": 40133,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "LUUK",
+        "id": 40146,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "MAIMBUNG",
+        "id": 40174,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "OLD PANAMAO",
+        "id": 40206,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "OMAR",
+        "id": 40215,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "PANDAMI",
+        "id": 40232,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "PANGLIMA ESTINO (NEW PANAMAO)",
+        "id": 40245,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "PANGUTARAN",
+        "id": 40262,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "PARANG",
+        "id": 40303,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "PATA",
+        "id": 40318,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "PATIKUL",
+        "id": 40349,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "SIASI",
+        "id": 40400,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "TALIPAO",
+        "id": 40453,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "TAPUL",
+        "id": 40469,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "TONGKIL",
+        "id": 40484,
+        "province_id": 74,
+        "region_id": 15
+    },
+    {
+        "name": "BONGAO",
+        "id": 40520,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "LANGUYAN",
+        "id": 40541,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "MAPUN (CAGAYAN DE TAWI-TAWI)",
+        "id": 40557,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "PANGLIMA SUGALA (BALIMBING)",
+        "id": 40575,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "SAPA-SAPA",
+        "id": 40598,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "SIBUTU",
+        "id": 40615,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "SIMUNUL",
+        "id": 40631,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "SITANGKAI",
+        "id": 40641,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "SOUTH UBIAN",
+        "id": 40673,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "TANDUBAS",
+        "id": 40694,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "TURTLE ISLANDS",
+        "id": 40697,
+        "province_id": 75,
+        "region_id": 15
+    },
+    {
+        "name": "BANGUED",
+        "id": 40729,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "BOLINEY",
+        "id": 40738,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "BUCAY",
+        "id": 40760,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "BUCLOC",
+        "id": 40765,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "DAGUIOMAN",
+        "id": 40770,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "DANGLAS",
+        "id": 40778,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "DOLORES",
+        "id": 40794,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "LA PAZ",
+        "id": 40807,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "LACUB",
+        "id": 40814,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "LAGANGILANG",
+        "id": 40832,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "LAGAYAN",
+        "id": 40838,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "LANGIDEN",
+        "id": 40845,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "LICUAN-BAAY (LICUAN)",
+        "id": 40857,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "LUBA",
+        "id": 40866,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "MALIBCONG",
+        "id": 40879,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "MANABO",
+        "id": 40891,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "PEÑARRUBIA",
+        "id": 40901,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "PIDIGAN",
+        "id": 40917,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "PILAR",
+        "id": 40937,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "SALLAPADAN",
+        "id": 40947,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "SAN ISIDRO",
+        "id": 40957,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "SAN JUAN",
+        "id": 40977,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "SAN QUINTIN",
+        "id": 40984,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "TAYUM",
+        "id": 40996,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "TINEG",
+        "id": 41007,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "TUBO",
+        "id": 41018,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "VILLAVICIOSA",
+        "id": 41027,
+        "province_id": 76,
+        "region_id": 16
+    },
+    {
+        "name": "CALANASAN (BAYAG)",
+        "id": 41046,
+        "province_id": 77,
+        "region_id": 16
+    },
+    {
+        "name": "CONNER",
+        "id": 41068,
+        "province_id": 77,
+        "region_id": 16
+    },
+    {
+        "name": "FLORA",
+        "id": 41085,
+        "province_id": 77,
+        "region_id": 16
+    },
+    {
+        "name": "KABUGAO",
+        "id": 41107,
+        "province_id": 77,
+        "region_id": 16
+    },
+    {
+        "name": "LUNA",
+        "id": 41130,
+        "province_id": 77,
+        "region_id": 16
+    },
+    {
+        "name": "PUDTOL",
+        "id": 41153,
+        "province_id": 77,
+        "region_id": 16
+    },
+    {
+        "name": "SANTA MARCELA",
+        "id": 41167,
+        "province_id": 77,
+        "region_id": 16
+    },
+    {
+        "name": "ATOK",
+        "id": 41176,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "BAGUIO CITY",
+        "id": 41305,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "BAKUN",
+        "id": 41313,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "BOKOD",
+        "id": 41324,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "BUGUIAS",
+        "id": 41339,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "ITOGON",
+        "id": 41349,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "KABAYAN",
+        "id": 41363,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "KAPANGAN",
+        "id": 41379,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "KIBUNGAN",
+        "id": 41387,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "LA TRINIDAD",
+        "id": 41404,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "MANKAYAN",
+        "id": 41417,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "SABLAN",
+        "id": 41426,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "TUBA",
+        "id": 41440,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "TUBLAY",
+        "id": 41449,
+        "province_id": 78,
+        "region_id": 16
+    },
+    {
+        "name": "AGUINALDO",
+        "id": 41466,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "ALFONSO LISTA (POTIA)",
+        "id": 41487,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "ASIPULO",
+        "id": 41498,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "BANAUE",
+        "id": 41517,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "HINGYON",
+        "id": 41530,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "HUNGDUAN",
+        "id": 41540,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "KIANGAN",
+        "id": 41555,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "LAGAWE",
+        "id": 41576,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "LAMUT",
+        "id": 41595,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "MAYOYAO",
+        "id": 41623,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "TINOC",
+        "id": 41636,
+        "province_id": 79,
+        "region_id": 16
+    },
+    {
+        "name": "BALBALAN",
+        "id": 41651,
+        "province_id": 80,
+        "region_id": 16
+    },
+    {
+        "name": "LUBUAGAN",
+        "id": 41661,
+        "province_id": 80,
+        "region_id": 16
+    },
+    {
+        "name": "PASIL",
+        "id": 41676,
+        "province_id": 80,
+        "region_id": 16
+    },
+    {
+        "name": "PINUKPUK",
+        "id": 41700,
+        "province_id": 80,
+        "region_id": 16
+    },
+    {
+        "name": "RIZAL (LIWAN)",
+        "id": 41715,
+        "province_id": 80,
+        "region_id": 16
+    },
+    {
+        "name": "TABUK CITY",
+        "id": 41758,
+        "province_id": 80,
+        "region_id": 16
+    },
+    {
+        "name": "TANUDAN",
+        "id": 41775,
+        "province_id": 80,
+        "region_id": 16
+    },
+    {
+        "name": "TINGLAYAN",
+        "id": 41796,
+        "province_id": 80,
+        "region_id": 16
+    },
+    {
+        "name": "BARLIG",
+        "id": 41808,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "BAUKO",
+        "id": 41831,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "BESAO",
+        "id": 41846,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "BONTOC",
+        "id": 41863,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "NATONIN",
+        "id": 41875,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "PARACELIS",
+        "id": 41885,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "SABANGAN",
+        "id": 41901,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "SADANGA",
+        "id": 41910,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "SAGADA",
+        "id": 41930,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "TADIAN",
+        "id": 41950,
+        "province_id": 81,
+        "region_id": 16
+    },
+    {
+        "name": "CITY OF LAS PIÑAS",
+        "id": 41971,
+        "province_id": 82,
+        "region_id": 17
+    },
+    {
+        "name": "CITY OF MAKATI",
+        "id": 42005,
+        "province_id": 82,
+        "region_id": 17
+    },
+    {
+        "name": "CITY OF MUNTINLUPA",
+        "id": 42015,
+        "province_id": 82,
+        "region_id": 17
+    },
+    {
+        "name": "CITY OF PARAÑAQUE",
+        "id": 42032,
+        "province_id": 82,
+        "region_id": 17
+    },
+    {
+        "name": "PASAY CITY",
+        "id": 42234,
+        "province_id": 82,
+        "region_id": 17
+    },
+    {
+        "name": "BINONDO",
+        "id": 42245,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "ERMITA",
+        "id": 42259,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "INTRAMUROS",
+        "id": 42265,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "MALATE",
+        "id": 42323,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "PACO",
+        "id": 42367,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "PANDACAN",
+        "id": 42406,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "PORT AREA",
+        "id": 42412,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "QUIAPO",
+        "id": 42429,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "SAMPALOC",
+        "id": 42673,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "SAN MIGUEL",
+        "id": 42686,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "SAN NICOLAS",
+        "id": 42702,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "SANTA ANA",
+        "id": 42802,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "SANTA CRUZ",
+        "id": 42885,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "TONDO",
+        "id": 43144,
+        "province_id": 83,
+        "region_id": 17
+    },
+    {
+        "name": "CITY OF MANDALUYONG",
+        "id": 43172,
+        "province_id": 84,
+        "region_id": 17
+    },
+    {
+        "name": "CITY OF MARIKINA",
+        "id": 43189,
+        "province_id": 84,
+        "region_id": 17
+    },
+    {
+        "name": "CITY OF PASIG",
+        "id": 43220,
+        "province_id": 84,
+        "region_id": 17
+    },
+    {
+        "name": "QUEZON CITY",
+        "id": 43363,
+        "province_id": 84,
+        "region_id": 17
+    },
+    {
+        "name": "SAN JUAN CITY",
+        "id": 43385,
+        "province_id": 84,
+        "region_id": 17
+    },
+    {
+        "name": "CALOOCAN CITY",
+        "id": 43574,
+        "province_id": 85,
+        "region_id": 17
+    },
+    {
+        "name": "CITY OF VALENZUELA",
+        "id": 43608,
+        "province_id": 85,
+        "region_id": 17
+    },
+    {
+        "name": "MALABON CITY",
+        "id": 43630,
+        "province_id": 85,
+        "region_id": 17
+    },
+    {
+        "name": "NAVOTAS CITY",
+        "id": 43649,
+        "province_id": 85,
+        "region_id": 17
+    },
+    {
+        "name": "PATEROS",
+        "id": 43660,
+        "province_id": 86,
+        "region_id": 17
+    },
+    {
+        "name": "TAGUIG",
+        "id": 43689,
+        "province_id": 86,
+        "region_id": 17
+    }
+]

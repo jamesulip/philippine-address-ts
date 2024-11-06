@@ -1,0 +1,432 @@
+[
+  {
+    "name": "BUKIDNON",
+    "id": 1,
+    "region_id": 1
+  },
+  {
+    "name": "CAMIGUIN",
+    "id": 2,
+    "region_id": 1
+  },
+  {
+    "name": "LANAO DEL NORTE",
+    "id": 3,
+    "region_id": 1
+  },
+  {
+    "name": "MISAMIS OCCIDENTAL",
+    "id": 4,
+    "region_id": 1
+  },
+  {
+    "name": "MISAMIS ORIENTAL",
+    "id": 5,
+    "region_id": 1
+  },
+  {
+    "name": "COMPOSTELA VALLEY",
+    "id": 6,
+    "region_id": 2
+  },
+  {
+    "name": "DAVAO (DAVAO DEL NORTE)",
+    "id": 7,
+    "region_id": 2
+  },
+  {
+    "name": "DAVAO DEL SUR",
+    "id": 8,
+    "region_id": 2
+  },
+  {
+    "name": "DAVAO OCCIDENTAL",
+    "id": 9,
+    "region_id": 2
+  },
+  {
+    "name": "DAVAO ORIENTAL",
+    "id": 10,
+    "region_id": 2
+  },
+  {
+    "name": "COTABATO (NORTH COT.)",
+    "id": 11,
+    "region_id": 3
+  },
+  {
+    "name": "SARANGANI",
+    "id": 12,
+    "region_id": 3
+  },
+  {
+    "name": "SOUTH COTABATO",
+    "id": 13,
+    "region_id": 3
+  },
+  {
+    "name": "SULTAN KUDARAT",
+    "id": 14,
+    "region_id": 3
+  },
+  {
+    "name": "AGUSAN DEL NORTE",
+    "id": 15,
+    "region_id": 4
+  },
+  {
+    "name": "AGUSAN DEL SUR",
+    "id": 16,
+    "region_id": 4
+  },
+  {
+    "name": "DINAGAT ISLANDS",
+    "id": 17,
+    "region_id": 4
+  },
+  {
+    "name": "SURIGAO DEL NORTE",
+    "id": 18,
+    "region_id": 4
+  },
+  {
+    "name": "SURIGAO DEL SUR",
+    "id": 19,
+    "region_id": 4
+  },
+  {
+    "name": "ILOCOS NORTE",
+    "id": 20,
+    "region_id": 5
+  },
+  {
+    "name": "ILOCOS SUR",
+    "id": 21,
+    "region_id": 5
+  },
+  {
+    "name": "LA UNION",
+    "id": 22,
+    "region_id": 5
+  },
+  {
+    "name": "PANGASINAN",
+    "id": 23,
+    "region_id": 5
+  },
+  {
+    "name": "BATANES",
+    "id": 24,
+    "region_id": 6
+  },
+  {
+    "name": "CAGAYAN",
+    "id": 25,
+    "region_id": 6
+  },
+  {
+    "name": "ISABELA",
+    "id": 26,
+    "region_id": 6
+  },
+  {
+    "name": "NUEVA VIZCAYA",
+    "id": 27,
+    "region_id": 6
+  },
+  {
+    "name": "QUIRINO",
+    "id": 28,
+    "region_id": 6
+  },
+  {
+    "name": "AURORA",
+    "id": 29,
+    "region_id": 7
+  },
+  {
+    "name": "BATAAN",
+    "id": 30,
+    "region_id": 7
+  },
+  {
+    "name": "BULACAN",
+    "id": 31,
+    "region_id": 7
+  },
+  {
+    "name": "NUEVA ECIJA",
+    "id": 32,
+    "region_id": 7
+  },
+  {
+    "name": "PAMPANGA",
+    "id": 33,
+    "region_id": 7
+  },
+  {
+    "name": "TARLAC",
+    "id": 34,
+    "region_id": 7
+  },
+  {
+    "name": "ZAMBALES",
+    "id": 35,
+    "region_id": 7
+  },
+  {
+    "name": "BATANGAS",
+    "id": 36,
+    "region_id": 8
+  },
+  {
+    "name": "CAVITE",
+    "id": 37,
+    "region_id": 8
+  },
+  {
+    "name": "LAGUNA",
+    "id": 38,
+    "region_id": 8
+  },
+  {
+    "name": "QUEZON",
+    "id": 39,
+    "region_id": 8
+  },
+  {
+    "name": "RIZAL",
+    "id": 40,
+    "region_id": 8
+  },
+  {
+    "name": "MARINDUQUE",
+    "id": 41,
+    "region_id": 9
+  },
+  {
+    "name": "OCCIDENTAL MINDORO",
+    "id": 42,
+    "region_id": 9
+  },
+  {
+    "name": "ORIENTAL MINDORO",
+    "id": 43,
+    "region_id": 9
+  },
+  {
+    "name": "PALAWAN",
+    "id": 44,
+    "region_id": 9
+  },
+  {
+    "name": "ROMBLON",
+    "id": 45,
+    "region_id": 9
+  },
+  {
+    "name": "ALBAY",
+    "id": 46,
+    "region_id": 10
+  },
+  {
+    "name": "CAMARINES NORTE",
+    "id": 47,
+    "region_id": 10
+  },
+  {
+    "name": "CAMARINES SUR",
+    "id": 48,
+    "region_id": 10
+  },
+  {
+    "name": "CATANDUANES",
+    "id": 49,
+    "region_id": 10
+  },
+  {
+    "name": "MASBATE",
+    "id": 50,
+    "region_id": 10
+  },
+  {
+    "name": "SORSOGON",
+    "id": 51,
+    "region_id": 10
+  },
+  {
+    "name": "AKLAN",
+    "id": 52,
+    "region_id": 11
+  },
+  {
+    "name": "ANTIQUE",
+    "id": 53,
+    "region_id": 11
+  },
+  {
+    "name": "CAPIZ",
+    "id": 54,
+    "region_id": 11
+  },
+  {
+    "name": "GUIMARAS",
+    "id": 55,
+    "region_id": 11
+  },
+  {
+    "name": "ILOILO",
+    "id": 56,
+    "region_id": 11
+  },
+  {
+    "name": "NEGROS OCCIDENTAL",
+    "id": 57,
+    "region_id": 11
+  },
+  {
+    "name": "BOHOL",
+    "id": 58,
+    "region_id": 12
+  },
+  {
+    "name": "CEBU",
+    "id": 59,
+    "region_id": 12
+  },
+  {
+    "name": "NEGROS ORIENTAL",
+    "id": 60,
+    "region_id": 12
+  },
+  {
+    "name": "SIQUIJOR",
+    "id": 61,
+    "region_id": 12
+  },
+  {
+    "name": "BILIRAN",
+    "id": 62,
+    "region_id": 13
+  },
+  {
+    "name": "EASTERN SAMAR",
+    "id": 63,
+    "region_id": 13
+  },
+  {
+    "name": "LEYTE",
+    "id": 64,
+    "region_id": 13
+  },
+  {
+    "name": "NORTHERN SAMAR",
+    "id": 65,
+    "region_id": 13
+  },
+  {
+    "name": "SAMAR (WESTERN SAMAR)",
+    "id": 66,
+    "region_id": 13
+  },
+  {
+    "name": "SOUTHERN LEYTE",
+    "id": 67,
+    "region_id": 13
+  },
+  {
+    "name": "ZAMBOANGA DEL NORTE",
+    "id": 68,
+    "region_id": 14
+  },
+  {
+    "name": "ZAMBOANGA DEL SUR",
+    "id": 69,
+    "region_id": 14
+  },
+  {
+    "name": "ZAMBOANGA SIBUGAY",
+    "id": 70,
+    "region_id": 14
+  },
+  {
+    "name": "BASILAN",
+    "id": 71,
+    "region_id": 15
+  },
+  {
+    "name": "LANAO DEL SUR",
+    "id": 72,
+    "region_id": 15
+  },
+  {
+    "name": "MAGUINDANAO",
+    "id": 73,
+    "region_id": 15
+  },
+  {
+    "name": "SULU",
+    "id": 74,
+    "region_id": 15
+  },
+  {
+    "name": "TAWI-TAWI",
+    "id": 75,
+    "region_id": 15
+  },
+  {
+    "name": "ABRA",
+    "id": 76,
+    "region_id": 16
+  },
+  {
+    "name": "APAYAO",
+    "id": 77,
+    "region_id": 16
+  },
+  {
+    "name": "BENGUET",
+    "id": 78,
+    "region_id": 16
+  },
+  {
+    "name": "IFUGAO",
+    "id": 79,
+    "region_id": 16
+  },
+  {
+    "name": "KALINGA",
+    "id": 80,
+    "region_id": 16
+  },
+  {
+    "name": "MOUNTAIN PROVINCE",
+    "id": 81,
+    "region_id": 16
+  },
+  {
+    "name": "NATIONAL CAPITAL REGION - FOURTH DISTRICT",
+    "id": 82,
+    "region_id": 17
+  },
+  {
+    "name": "NATIONAL CAPITAL REGION - MANILA",
+    "id": 83,
+    "region_id": 17
+  },
+  {
+    "name": "NATIONAL CAPITAL REGION - SECOND DISTRICT",
+    "id": 84,
+    "region_id": 17
+  },
+  {
+    "name": "NATIONAL CAPITAL REGION - THIRD DISTRICT",
+    "id": 85,
+    "region_id": 17
+  },
+  {
+    "name": "TAGUIG - PATEROS",
+    "id": 86,
+    "region_id": 17
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "name": "REGION X",
+    "id": 1
+  },
+  {
+    "name": "REGION XI",
+    "id": 2
+  },
+  {
+    "name": "REGION XII",
+    "id": 3
+  },
+  {
+    "name": "REGION XIII",
+    "id": 4
+  },
+  {
+    "name": "REGION I",
+    "id": 5
+  },
+  {
+    "name": "REGION II",
+    "id": 6
+  },
+  {
+    "name": "REGION III",
+    "id": 7
+  },
+  {
+    "name": "REGION IV-A",
+    "id": 8
+  },
+  {
+    "name": "REGION IV-B",
+    "id": 9
+  },
+  {
+    "name": "REGION V",
+    "id": 10
+  },
+  {
+    "name": "REGION VI",
+    "id": 11
+  },
+  {
+    "name": "REGION VII",
+    "id": 12
+  },
+  {
+    "name": "REGION VIII",
+    "id": 13
+  },
+  {
+    "name": "REGION IX",
+    "id": 14
+  },
+  {
+    "name": "BARMM",
+    "id": 15
+  },
+  {
+    "name": "CAR",
+    "id": 16
+  },
+  {
+    "name": "NCR",
+    "id": 17
+  }
+]
