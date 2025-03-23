@@ -18,7 +18,7 @@ describe('useAddress', () => {
         const result = await address.getRegions();
 
         expect(result).toEqual(regions);
-        expect(mockedAxios.get).toHaveBeenCalledWith('http://localhost:8200/json/regions.json');
+        expect(mockedAxios.get).toHaveBeenCalledWith('/json/regions.json');
     });
 
     it('should fetch and return provinces', async () => {
@@ -28,7 +28,7 @@ describe('useAddress', () => {
         const result = await address.getProvinces();
 
         expect(result).toEqual(provinces);
-        expect(mockedAxios.get).toHaveBeenCalledWith('http://localhost:8200/json/provinces.json');
+        expect(mockedAxios.get).toHaveBeenCalledWith('/json/provinces.json');
     });
 
     it('should fetch and return municipalities', async () => {
@@ -38,7 +38,7 @@ describe('useAddress', () => {
         const result = await address.getMunicipalities();
 
         expect(result).toEqual(municipalities);
-        expect(mockedAxios.get).toHaveBeenCalledWith('http://localhost:8200/json/municipalities.json');
+        expect(mockedAxios.get).toHaveBeenCalledWith('/json/municipalities.json');
     });
 
     it('should find a region by id', async () => {
@@ -66,5 +66,14 @@ describe('useAddress', () => {
         const result = await address.findMunicipality('1');
 
         expect(result).toEqual(municipalities[0]);
+    });
+    // getRegionMunicipalities
+    it('should return municipalities of a region', async () => {
+        const municipalities = [{ id: '1', name: 'Municipality 1', province_id: '1' }];
+        mockedAxios.get.mockResolvedValueOnce({ data: municipalities });
+
+        const result = await address.getRegionMunicipalities('1');
+
+        expect(result).toEqual(municipalities);
     });
 });

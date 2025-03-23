@@ -13,6 +13,10 @@ interface Municipality {
     province_id: string;
 }
 declare function useAddress(): {
+    provinces: Province[];
+    regions: Region[];
+    municipalities: Municipality[];
+    getRegionMunicipalities: (regionId: string | number) => Promise<Municipality[]>;
     getRegions: () => Promise<Region[]>;
     getProvinces: () => Promise<Province[]>;
     getMunicipalities: () => Promise<Municipality[]>;
@@ -29,4 +33,4 @@ declare function useAddress(): {
     getProvinceMunicipalities: (provinceId: string | number) => Promise<Municipality[]>;
 };
 
-export { useAddress };
+export { type Municipality, type Province, type Region, useAddress };

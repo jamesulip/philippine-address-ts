@@ -1,6 +1,6 @@
 {
   "name": "philippine-address-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A typed philippine address",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

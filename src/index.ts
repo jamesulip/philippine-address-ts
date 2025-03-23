@@ -1,50 +1,49 @@
 import axios from 'axios';
 
-interface Region {
+export interface Region {
     id: string;
     name: string;
 }
 
-interface Province {
+export interface Province {
     id: string;
     name: string;
     region_id: string;
 }
 
-interface Municipality {
+export interface Municipality {
     id: string;
     name: string;
     province_id: string;
 }
-
+let regions: Region[]=[];
+let provinces: Province[]=[];
+let municipalities: Municipality[]=[];
 export function useAddress() {
-    let regions: Region[] = [];
-    let provinces: Province[] = [];
-    let municipalities: Municipality[] = [];
+ 
 
     async function initializeRegions(): Promise<Region[]> {
         if (regions.length === 0) {
-            const { data } = await axios.get<Region[]>('http://localhost:8200/json/regions.json');
+            const { data } = await axios.get<Region[]>('/json/regions.json');
             regions = data;
-            return data;
         }
         return regions;
     }
 
     async function initializeProvinces(): Promise<Province[]> {
         if (provinces.length === 0) {
-            const { data } = await axios.get<Province[]>('http://localhost:8200/json/provinces.json');
+            const { data } = await axios.get<Province[]>('/json/provinces.json');
             provinces = data;
-            return data;
         }
+        console.log({provinces});
+        
         return provinces;
     }
 
     async function initializeMunicipalities(): Promise<Municipality[]> {
         if (municipalities.length === 0) {
-            const { data } = await axios.get<Municipality[]>('http://localhost:8200/json/municipalities.json');
+            const { data } = await axios.get<Municipality[]>('/json/municipalities.json');
             municipalities = data;
-            return data;
         }
         return municipalities;
     }
@@ -119,8 +118,17 @@ export function useAddress() {
         const municipalities = await getMunicipalities();
         return municipalities.filter(municipality => municipality.province_id === provinceId);
     }
+    async function getRegionMunicipalities(regionId: string | number): Promise<Municipality[]> {
+        const provinces = await getRegionProvinces(regionId);
+        const municipalities = await getMunicipalities();
+        return municipalities.filter(municipality => provinces.some(province => province.id === municipality.province_id));
+    }
 
     return {
+        provinces,
+        regions,
+        municipalities,
+        getRegionMunicipalities,
         getRegions,
         getProvinces,
         getMunicipalities,

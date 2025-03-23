@@ -34,31 +34,29 @@ __export(src_exports, {
 });
 module.exports = __toCommonJS(src_exports);
 var import_axios = __toESM(require("axios"));
+var regions = [];
+var provinces = [];
+var municipalities = [];
 function useAddress() {
-  let regions = [];
-  let provinces = [];
-  let municipalities = [];
   async function initializeRegions() {
     if (regions.length === 0) {
-      const { data } = await import_axios.default.get("http://localhost:8200/json/regions.json");
+      const { data } = await import_axios.default.get("/json/regions.json");
       regions = data;
-      return data;
     }
     return regions;
   }
   async function initializeProvinces() {
     if (provinces.length === 0) {
-      const { data } = await import_axios.default.get("http://localhost:8200/json/provinces.json");
+      const { data } = await import_axios.default.get("/json/provinces.json");
       provinces = data;
-      return data;
     }
+    console.log({ provinces });
     return provinces;
   }
   async function initializeMunicipalities() {
     if (municipalities.length === 0) {
-      const { data } = await import_axios.default.get("http://localhost:8200/json/municipalities.json");
+      const { data } = await import_axios.default.get("/json/municipalities.json");
       municipalities = data;
-      return data;
     }
     return municipalities;
   }
@@ -119,7 +117,16 @@ function useAddress() {
     const municipalities2 = await getMunicipalities();
     return municipalities2.filter((municipality) => municipality.province_id === provinceId);
   }
+  async function getRegionMunicipalities(regionId) {
+    const provinces2 = await getRegionProvinces(regionId);
+    const municipalities2 = await getMunicipalities();
+    return municipalities2.filter((municipality) => provinces2.some((province) => province.id === municipality.province_id));
+  }
   return {
+    provinces,
+    regions,
+    municipalities,
+    getRegionMunicipalities,
     getRegions,
     getProvinces,
     getMunicipalities,
